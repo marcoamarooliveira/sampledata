@@ -1,0 +1,305 @@
+{
+    "Info": {
+        "title": "iReceptorPlus Statistics API",
+        "version": "0.3.0",
+        "description": "Statistics API for the iReceptor Plus platform.",
+        "contact": null
+    },
+    "Result": [
+        {
+            "repertoire": {
+                "repertoire_id": "4",
+                "sample_processing_id": "4",
+                "data_processing_id": "4"
+            },
+            "fields": [
+                {
+                    "field": "d_call",
+                    "total": 755429,
+                    "data": [
+                        {
+                            "key": "",
+                            "count": 380052
+                        },
+                        {
+                            "key": "IGHD1-14*01",
+                            "count": 4362
+                        },
+                        {
+                            "key": "IGHD4-17*01",
+                            "count": 19770
+                        },
+                        {
+                            "key": "IGHD6-13*01",
+                            "count": 28803
+                        },
+                        {
+                            "key": "IGHD2-21*02",
+                            "count": 14966
+                        },
+                        {
+                            "key": "IGHD6-19*01",
+                            "count": 21051
+                        },
+                        {
+                            "key": "IGHD3-16*01",
+                            "count": 13537
+                        },
+                        {
+                            "key": "IGHD2-21*01",
+                            "count": 10443
+                        },
+                        {
+                            "key": "IGHD3-10*01",
+                            "count": 42208
+                        },
+                        {
+                            "key": "IGHD3-10*02",
+                            "count": 7461
+                        },
+                        {
+                            "key": "IGHD3-22*01",
+                            "count": 30547
+                        },
+                        {
+                            "key": "IGHD2-15*01",
+                            "count": 18133
+                        },
+                        {
+                            "key": "IGHD1-7*01",
+                            "count": 4062
+                        },
+                        {
+                            "key": "IGHD3-16*02",
+                            "count": 8009
+                        },
+                        {
+                            "key": "IGHD4-11*01",
+                            "count": 7526
+                        },
+                        {
+                            "key": "IGHD2-2*02",
+                            "count": 1538
+                        },
+                        {
+                            "key": "IGHD1-26*01",
+                            "count": 19311
+                        },
+                        {
+                            "key": "IGHD3-3*01",
+                            "count": 18245
+                        },
+                        {
+                            "key": "IGHD1-20*01",
+                            "count": 1135
+                        },
+                        {
+                            "key": "IGHD3-9*01",
+                            "count": 25337
+                        },
+                        {
+                            "key": "IGHD1-1*01",
+                            "count": 8222
+                        },
+                        {
+                            "key": "IGHD5-24*01",
+                            "count": 14065
+                        },
+                        {
+                            "key": "IGHD5-18*01",
+                            "count": 7253
+                        },
+                        {
+                            "key": "IGHD5-12*01",
+                            "count": 14137
+                        },
+                        {
+                            "key": "IGHD2-8*02",
+                            "count": 3952
+                        },
+                        {
+                            "key": "IGHD4-23*01",
+                            "count": 7202
+                        },
+                        {
+                            "key": "IGHD2-2*01",
+                            "count": 8405
+                        },
+                        {
+                            "key": "IGHD6-25*01",
+                            "count": 2508
+                        },
+                        {
+                            "key": "IGHD7-27*01",
+                            "count": 2429
+                        },
+                        {
+                            "key": "IGHD2-2*03",
+                            "count": 92
+                        },
+                        {
+                            "key": "IGHD6-6*01",
+                            "count": 5078
+                        },
+                        {
+                            "key": "IGHD3-3*02",
+                            "count": 1342
+                        },
+                        {
+                            "key": "IGHD2-8*01",
+                            "count": 4248
+                        }
+                    ]
+                },
+                {
+                    "field": "d_gene",
+                    "total": 755429,
+                    "data": [
+                        {
+                            "key": "IGHD3-16",
+                            "count": 21546
+                        },
+                        {
+                            "key": "IGHD3-10",
+                            "count": 49669
+                        },
+                        {
+                            "key": "IGHD3-22",
+                            "count": 30547
+                        },
+                        {
+                            "key": "IGHD2-15",
+                            "count": 18133
+                        },
+                        {
+                            "key": "IGHD3-9",
+                            "count": 25337
+                        },
+                        {
+                            "key": "IGHD1-7",
+                            "count": 4062
+                        },
+                        {
+                            "key": "IGHD4-11",
+                            "count": 7526
+                        },
+                        {
+                            "key": "IGHD2-2",
+                            "count": 10035
+                        },
+                        {
+                            "key": "IGHD1-26",
+                            "count": 19311
+                        },
+                        {
+                            "key": "IGHD3-3",
+                            "count": 19587
+                        },
+                        {
+                            "key": "IGHD1-20",
+                            "count": 1135
+                        },
+                        {
+                            "key": "IGHD5-24",
+                            "count": 14065
+                        },
+                        {
+                            "key": "IGHD5-18",
+                            "count": 7253
+                        },
+                        {
+                            "key": "IGHD5-12",
+                            "count": 14137
+                        },
+                        {
+                            "key": "IGHD1-1",
+                            "count": 8222
+                        },
+                        {
+                            "key": "IGHD2-8",
+                            "count": 8200
+                        },
+                        {
+                            "key": "IGHD4-23",
+                            "count": 7202
+                        },
+                        {
+                            "key": "IGHD6-25",
+                            "count": 2508
+                        },
+                        {
+                            "key": "",
+                            "count": 380052
+                        },
+                        {
+                            "key": "IGHD1-14",
+                            "count": 4362
+                        },
+                        {
+                            "key": "IGHD4-17",
+                            "count": 19770
+                        },
+                        {
+                            "key": "IGHD6-13",
+                            "count": 28803
+                        },
+                        {
+                            "key": "IGHD2-21",
+                            "count": 25409
+                        },
+                        {
+                            "key": "IGHD6-19",
+                            "count": 21051
+                        },
+                        {
+                            "key": "IGHD7-27",
+                            "count": 2429
+                        },
+                        {
+                            "key": "IGHD6-6",
+                            "count": 5078
+                        }
+                    ]
+                },
+                {
+                    "field": "d_family",
+                    "total": 755429,
+                    "data": [
+                        {
+                            "key": "IGHD1",
+                            "count": 37092
+                        },
+                        {
+                            "key": "",
+                            "count": 380052
+                        },
+                        {
+                            "key": "IGHD4",
+                            "count": 34498
+                        },
+                        {
+                            "key": "IGHD2",
+                            "count": 61777
+                        },
+                        {
+                            "key": "IGHD6",
+                            "count": 57440
+                        },
+                        {
+                            "key": "IGHD3",
+                            "count": 146686
+                        },
+                        {
+                            "key": "IGHD7",
+                            "count": 2429
+                        },
+                        {
+                            "key": "IGHD5",
+                            "count": 35455
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
