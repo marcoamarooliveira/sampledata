@@ -1,0 +1,451 @@
+{
+    "Info": {
+        "title": "iReceptorPlus Statistics API",
+        "version": "0.3.0",
+        "description": "Statistics API for the iReceptor Plus platform.",
+        "contact": null
+    },
+    "Result": [
+        {
+            "repertoire": {
+                "repertoire_id": 4,
+                "sample_processing_id": 4,
+                "data_processing_id": 4
+            },
+            "fields": [
+                {
+                    "field": "j_call",
+                    "total": 755429,
+                    "data": [
+                        {
+                            "key": "",
+                            "count": 270043
+                        },
+                        {
+                            "key": "IGHJ4*02",
+                            "count": 192377
+                        },
+                        {
+                            "key": "IGHJ5*02",
+                            "count": 53572
+                        },
+                        {
+                            "key": "IGHJ2*01",
+                            "count": 24481
+                        },
+                        {
+                            "key": "IGHJ3*02",
+                            "count": 29021
+                        },
+                        {
+                            "key": "none",
+                            "count": 8836
+                        },
+                        {
+                            "key": "IGHJ4*03",
+                            "count": 29215
+                        },
+                        {
+                            "key": "IGHJ1*01",
+                            "count": 33726
+                        },
+                        {
+                            "key": "IGHJ3*01",
+                            "count": 33399
+                        },
+                        {
+                            "key": "IGHJ4*01",
+                            "count": 5469
+                        },
+                        {
+                            "key": "IGHJ6*02",
+                            "count": 25467
+                        },
+                        {
+                            "key": "IGHJ6*03",
+                            "count": 24600
+                        },
+                        {
+                            "key": "IGHJ6*04",
+                            "count": 2695
+                        },
+                        {
+                            "key": "IGHJ6*01",
+                            "count": 18659
+                        },
+                        {
+                            "key": "IGHJ5*01",
+                            "count": 3869
+                        }
+                    ]
+                },
+                {
+                    "field": "j_gene",
+                    "total": 755429,
+                    "data": [
+                        {
+                            "key": "IGHJ3",
+                            "count": 62420
+                        },
+                        {
+                            "key": "IGHJ5",
+                            "count": 57441
+                        },
+                        {
+                            "key": "IGHJ4",
+                            "count": 227061
+                        },
+                        {
+                            "key": "IGHJ2",
+                            "count": 24481
+                        },
+                        {
+                            "key": "IGHJ1",
+                            "count": 33726
+                        },
+                        {
+                            "key": "none",
+                            "count": 8836
+                        },
+                        {
+                            "key": "IGHJ6",
+                            "count": 71421
+                        },
+                        {
+                            "key": "",
+                            "count": 270043
+                        }
+                    ]
+                },
+                {
+                    "field": "j_family",
+                    "total": 755429,
+                    "data": [
+                        {
+                            "key": "IGHJ3",
+                            "count": 62420
+                        },
+                        {
+                            "key": "",
+                            "count": 270043
+                        },
+                        {
+                            "key": "IGHJ4",
+                            "count": 227061
+                        },
+                        {
+                            "key": "none",
+                            "count": 8836
+                        },
+                        {
+                            "key": "IGHJ1",
+                            "count": 33726
+                        },
+                        {
+                            "key": "IGHJ6",
+                            "count": 71421
+                        },
+                        {
+                            "key": "IGHJ2",
+                            "count": 24481
+                        },
+                        {
+                            "key": "IGHJ5",
+                            "count": 57441
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "repertoire": {
+                "repertoire_id": 3,
+                "sample_processing_id": 3,
+                "data_processing_id": 3
+            },
+            "fields": [
+                {
+                    "field": "j_call",
+                    "total": 585083,
+                    "data": [
+                        {
+                            "key": "IGHJ3*02",
+                            "count": 34455
+                        },
+                        {
+                            "key": "IGHJ6*01",
+                            "count": 2500
+                        },
+                        {
+                            "key": "IGHJ6*02",
+                            "count": 56013
+                        },
+                        {
+                            "key": "IGHJ1*01",
+                            "count": 22584
+                        },
+                        {
+                            "key": "IGHJ4*03",
+                            "count": 9683
+                        },
+                        {
+                            "key": "IGHJ2*01",
+                            "count": 17476
+                        },
+                        {
+                            "key": "IGHJ6*04",
+                            "count": 1064
+                        },
+                        {
+                            "key": "none",
+                            "count": 534
+                        },
+                        {
+                            "key": "IGHJ4*01",
+                            "count": 1698
+                        },
+                        {
+                            "key": "IGHJ5*01",
+                            "count": 322
+                        },
+                        {
+                            "key": "IGHJ6*03",
+                            "count": 26745
+                        },
+                        {
+                            "key": "",
+                            "count": 19289
+                        },
+                        {
+                            "key": "IGHJ3*01",
+                            "count": 18406
+                        },
+                        {
+                            "key": "IGHJ4*02",
+                            "count": 329924
+                        },
+                        {
+                            "key": "IGHJ5*02",
+                            "count": 44390
+                        }
+                    ]
+                },
+                {
+                    "field": "j_gene",
+                    "total": 585083,
+                    "data": [
+                        {
+                            "key": "IGHJ3",
+                            "count": 52861
+                        },
+                        {
+                            "key": "",
+                            "count": 19289
+                        },
+                        {
+                            "key": "IGHJ4",
+                            "count": 341305
+                        },
+                        {
+                            "key": "IGHJ5",
+                            "count": 44712
+                        },
+                        {
+                            "key": "IGHJ1",
+                            "count": 22584
+                        },
+                        {
+                            "key": "IGHJ2",
+                            "count": 17476
+                        },
+                        {
+                            "key": "none",
+                            "count": 534
+                        },
+                        {
+                            "key": "IGHJ6",
+                            "count": 86322
+                        }
+                    ]
+                },
+                {
+                    "field": "j_family",
+                    "total": 585083,
+                    "data": [
+                        {
+                            "key": "IGHJ6",
+                            "count": 86322
+                        },
+                        {
+                            "key": "",
+                            "count": 19289
+                        },
+                        {
+                            "key": "IGHJ3",
+                            "count": 52861
+                        },
+                        {
+                            "key": "IGHJ1",
+                            "count": 22584
+                        },
+                        {
+                            "key": "IGHJ2",
+                            "count": 17476
+                        },
+                        {
+                            "key": "IGHJ4",
+                            "count": 341305
+                        },
+                        {
+                            "key": "none",
+                            "count": 534
+                        },
+                        {
+                            "key": "IGHJ5",
+                            "count": 44712
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "repertoire": {
+                "repertoire_id": 425,
+                "sample_processing_id": 435,
+                "data_processing_id": 435
+            },
+            "fields": [
+                {
+                    "field": "j_call",
+                    "total": 1633051,
+                    "data": [
+                        {
+                            "key": "IGHJ4*02",
+                            "count": 965008
+                        },
+                        {
+                            "key": "IGHJ3*02",
+                            "count": 154723
+                        },
+                        {
+                            "key": "IGHJ6*02",
+                            "count": 110739
+                        },
+                        {
+                            "key": "IGHJ6*03",
+                            "count": 59502
+                        },
+                        {
+                            "key": "IGHJ4*03",
+                            "count": 11853
+                        },
+                        {
+                            "key": "IGHJ6*01",
+                            "count": 1229
+                        },
+                        {
+                            "key": "IGHJ4*01",
+                            "count": 2201
+                        },
+                        {
+                            "key": "IGHJ5*01",
+                            "count": 477
+                        },
+                        {
+                            "key": "IGHJ2*01",
+                            "count": 65705
+                        },
+                        {
+                            "key": "IGHJ3*01",
+                            "count": 33607
+                        },
+                        {
+                            "key": "IGHJ1*01",
+                            "count": 39908
+                        },
+                        {
+                            "key": "IGHJ6*04",
+                            "count": 8963
+                        },
+                        {
+                            "key": "",
+                            "count": 5230
+                        },
+                        {
+                            "key": "IGHJ5*02",
+                            "count": 173906
+                        }
+                    ]
+                },
+                {
+                    "field": "j_gene",
+                    "total": 1633051,
+                    "data": [
+                        {
+                            "key": "IGHJ5",
+                            "count": 174383
+                        },
+                        {
+                            "key": "",
+                            "count": 5230
+                        },
+                        {
+                            "key": "IGHJ6",
+                            "count": 180433
+                        },
+                        {
+                            "key": "IGHJ1",
+                            "count": 39908
+                        },
+                        {
+                            "key": "IGHJ4",
+                            "count": 979062
+                        },
+                        {
+                            "key": "IGHJ3",
+                            "count": 188330
+                        },
+                        {
+                            "key": "IGHJ2",
+                            "count": 65705
+                        }
+                    ]
+                },
+                {
+                    "field": "j_family",
+                    "total": 1633051,
+                    "data": [
+                        {
+                            "key": "IGHJ6",
+                            "count": 180433
+                        },
+                        {
+                            "key": "IGHJ4",
+                            "count": 979062
+                        },
+                        {
+                            "key": "IGHJ2",
+                            "count": 65705
+                        },
+                        {
+                            "key": "IGHJ3",
+                            "count": 188330
+                        },
+                        {
+                            "key": "",
+                            "count": 5230
+                        },
+                        {
+                            "key": "IGHJ5",
+                            "count": 174383
+                        },
+                        {
+                            "key": "IGHJ1",
+                            "count": 39908
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

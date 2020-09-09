@@ -1,0 +1,479 @@
+{
+    "Info": {
+        "title": "iReceptorPlus Statistics API",
+        "version": "0.3.0",
+        "description": "Statistics API for the iReceptor Plus platform.",
+        "contact": null
+    },
+    "Result": [
+        {
+            "repertoire": {
+                "repertoire_id": 4,
+                "sample_processing_id": 4,
+                "data_processing_id": 4
+            },
+            "fields": [
+                {
+                    "field": "junction_aa_length",
+                    "total": 755429,
+                    "data": [
+                        {
+                            "key": 13,
+                            "count": 26013
+                        },
+                        {
+                            "key": 28,
+                            "count": 215
+                        },
+                        {
+                            "key": 14,
+                            "count": 38913
+                        },
+                        {
+                            "key": 23,
+                            "count": 12652
+                        },
+                        {
+                            "key": 21,
+                            "count": 18023
+                        },
+                        {
+                            "key": 17,
+                            "count": 37831
+                        },
+                        {
+                            "key": 22,
+                            "count": 11069
+                        },
+                        {
+                            "key": 25,
+                            "count": 3982
+                        },
+                        {
+                            "key": 16,
+                            "count": 41753
+                        },
+                        {
+                            "key": 20,
+                            "count": 25197
+                        },
+                        {
+                            "key": 24,
+                            "count": 7766
+                        },
+                        {
+                            "key": 4,
+                            "count": 1255
+                        },
+                        {
+                            "key": 12,
+                            "count": 16806
+                        },
+                        {
+                            "key": 8,
+                            "count": 6549
+                        },
+                        {
+                            "key": 6,
+                            "count": 1160
+                        },
+                        {
+                            "key": 10,
+                            "count": 7182
+                        },
+                        {
+                            "key": 26,
+                            "count": 1299
+                        },
+                        {
+                            "key": 7,
+                            "count": 2335
+                        },
+                        {
+                            "key": 27,
+                            "count": 902
+                        },
+                        {
+                            "key": 30,
+                            "count": 108
+                        },
+                        {
+                            "key": 5,
+                            "count": 2091
+                        },
+                        {
+                            "key": 2,
+                            "count": 57
+                        },
+                        {
+                            "key": 29,
+                            "count": 105
+                        },
+                        {
+                            "key": 0,
+                            "count": 366693
+                        },
+                        {
+                            "key": 32,
+                            "count": 12
+                        },
+                        {
+                            "key": 31,
+                            "count": 26
+                        },
+                        {
+                            "key": 15,
+                            "count": 42276
+                        },
+                        {
+                            "key": 34,
+                            "count": 2
+                        },
+                        {
+                            "key": 33,
+                            "count": 3
+                        },
+                        {
+                            "key": 49,
+                            "count": 1
+                        },
+                        {
+                            "key": 18,
+                            "count": 39518
+                        },
+                        {
+                            "key": 3,
+                            "count": 248
+                        },
+                        {
+                            "key": 11,
+                            "count": 7913
+                        },
+                        {
+                            "key": 19,
+                            "count": 29761
+                        },
+                        {
+                            "key": 9,
+                            "count": 5713
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "repertoire": {
+                "repertoire_id": 3,
+                "sample_processing_id": 3,
+                "data_processing_id": 3
+            },
+            "fields": [
+                {
+                    "field": "junction_aa_length",
+                    "total": 585083,
+                    "data": [
+                        {
+                            "key": 14,
+                            "count": 42286
+                        },
+                        {
+                            "key": 20,
+                            "count": 44693
+                        },
+                        {
+                            "key": 19,
+                            "count": 56446
+                        },
+                        {
+                            "key": 25,
+                            "count": 16465
+                        },
+                        {
+                            "key": 12,
+                            "count": 25447
+                        },
+                        {
+                            "key": 27,
+                            "count": 1637
+                        },
+                        {
+                            "key": 24,
+                            "count": 18885
+                        },
+                        {
+                            "key": 16,
+                            "count": 49081
+                        },
+                        {
+                            "key": 21,
+                            "count": 25878
+                        },
+                        {
+                            "key": 8,
+                            "count": 3204
+                        },
+                        {
+                            "key": 9,
+                            "count": 14142
+                        },
+                        {
+                            "key": 26,
+                            "count": 3257
+                        },
+                        {
+                            "key": 23,
+                            "count": 18654
+                        },
+                        {
+                            "key": 13,
+                            "count": 25068
+                        },
+                        {
+                            "key": 15,
+                            "count": 53430
+                        },
+                        {
+                            "key": 0,
+                            "count": 30697
+                        },
+                        {
+                            "key": 5,
+                            "count": 159
+                        },
+                        {
+                            "key": 11,
+                            "count": 7574
+                        },
+                        {
+                            "key": 7,
+                            "count": 292
+                        },
+                        {
+                            "key": 17,
+                            "count": 34819
+                        },
+                        {
+                            "key": 6,
+                            "count": 260
+                        },
+                        {
+                            "key": 22,
+                            "count": 18315
+                        },
+                        {
+                            "key": 10,
+                            "count": 6222
+                        },
+                        {
+                            "key": 28,
+                            "count": 414
+                        },
+                        {
+                            "key": 29,
+                            "count": 329
+                        },
+                        {
+                            "key": 18,
+                            "count": 86710
+                        },
+                        {
+                            "key": 4,
+                            "count": 97
+                        },
+                        {
+                            "key": 32,
+                            "count": 224
+                        },
+                        {
+                            "key": 31,
+                            "count": 33
+                        },
+                        {
+                            "key": 30,
+                            "count": 280
+                        },
+                        {
+                            "key": 41,
+                            "count": 6
+                        },
+                        {
+                            "key": 35,
+                            "count": 7
+                        },
+                        {
+                            "key": 36,
+                            "count": 13
+                        },
+                        {
+                            "key": 33,
+                            "count": 21
+                        },
+                        {
+                            "key": 3,
+                            "count": 16
+                        },
+                        {
+                            "key": 46,
+                            "count": 5
+                        },
+                        {
+                            "key": 38,
+                            "count": 2
+                        },
+                        {
+                            "key": 47,
+                            "count": 1
+                        },
+                        {
+                            "key": 37,
+                            "count": 6
+                        },
+                        {
+                            "key": 2,
+                            "count": 6
+                        },
+                        {
+                            "key": 39,
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "repertoire": {
+                "repertoire_id": 425,
+                "sample_processing_id": 435,
+                "data_processing_id": 435
+            },
+            "fields": [
+                {
+                    "field": "junction_aa_length",
+                    "total": 1633051,
+                    "data": [
+                        {
+                            "key": 19,
+                            "count": 125274
+                        },
+                        {
+                            "key": 20,
+                            "count": 41969
+                        },
+                        {
+                            "key": 13,
+                            "count": 197045
+                        },
+                        {
+                            "key": 17,
+                            "count": 179775
+                        },
+                        {
+                            "key": 11,
+                            "count": 150235
+                        },
+                        {
+                            "key": 8,
+                            "count": 36683
+                        },
+                        {
+                            "key": 15,
+                            "count": 165055
+                        },
+                        {
+                            "key": 10,
+                            "count": 73239
+                        },
+                        {
+                            "key": 7,
+                            "count": 11633
+                        },
+                        {
+                            "key": 0,
+                            "count": 5687
+                        },
+                        {
+                            "key": 21,
+                            "count": 11649
+                        },
+                        {
+                            "key": 12,
+                            "count": 142433
+                        },
+                        {
+                            "key": 14,
+                            "count": 180005
+                        },
+                        {
+                            "key": 18,
+                            "count": 74420
+                        },
+                        {
+                            "key": 16,
+                            "count": 213655
+                        },
+                        {
+                            "key": 4,
+                            "count": 4
+                        },
+                        {
+                            "key": 9,
+                            "count": 21175
+                        },
+                        {
+                            "key": 2,
+                            "count": 23
+                        },
+                        {
+                            "key": 34,
+                            "count": 1
+                        },
+                        {
+                            "key": 25,
+                            "count": 2
+                        },
+                        {
+                            "key": 33,
+                            "count": 1
+                        },
+                        {
+                            "key": 3,
+                            "count": 1
+                        },
+                        {
+                            "key": 24,
+                            "count": 1
+                        },
+                        {
+                            "key": 23,
+                            "count": 3
+                        },
+                        {
+                            "key": 22,
+                            "count": 28
+                        },
+                        {
+                            "key": 36,
+                            "count": 1
+                        },
+                        {
+                            "key": 26,
+                            "count": 1
+                        },
+                        {
+                            "key": 28,
+                            "count": 3
+                        },
+                        {
+                            "key": 5,
+                            "count": 68
+                        },
+                        {
+                            "key": 6,
+                            "count": 2982
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
