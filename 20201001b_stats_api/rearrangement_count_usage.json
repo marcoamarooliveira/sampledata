@@ -1,0 +1,68 @@
+{
+    "Info": {
+        "title": "iReceptorPlus Statistics API",
+        "version": "0.3.0",
+        "description": "Statistics API for the iReceptor Plus platform.",
+        "contact": null
+    },
+    "Message": [
+        {
+            "repertoires": {
+                "repertoire_id": "322",
+                "sample_processing_id": "398",
+                "data_processing_id": "398"
+            },
+            "statistics": [
+                {
+                    "statistic_name": "rearrangement_count",
+                    "total": 3472,
+                    "data": [
+                        {
+                            "key": 322,
+                            "count": 3472
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "rearrangement_count_productive",
+                    "total": 842,
+                    "data": [
+                        {
+                            "key": 322,
+                            "count": 842
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "repertoires": {
+                "repertoire_id": "279",
+                "sample_processing_id": "433",
+                "data_processing_id": "433"
+            },
+            "statistics": [
+                {
+                    "statistic_name": "rearrangement_count",
+                    "total": 2485869,
+                    "data": [
+                        {
+                            "key": 279,
+                            "count": 2485869
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "rearrangement_count_productive",
+                    "total": 2368159,
+                    "data": [
+                        {
+                            "key": 279,
+                            "count": 2368159
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
