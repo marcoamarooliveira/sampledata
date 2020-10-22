@@ -1,0 +1,1780 @@
+{
+    "Info": {
+        "title": "iReceptorPlus Statistics API",
+        "version": "0.3.0",
+        "description": "Statistics API for the iReceptor Plus platform.",
+        "contact": null
+    },
+    "Mesage": [
+        {
+            "repertoires": {
+                "repertoire_id": "322",
+                "sample_processing_id": "398",
+                "data_processing_id": "398"
+            },
+            "statistics": [
+                {
+                    "statistic_name": "junction_length",
+                    "total": 3472,
+                    "data": [
+                        {
+                            "key": 0,
+                            "value": 1493
+                        },
+                        {
+                            "key": 67,
+                            "value": 28
+                        },
+                        {
+                            "key": 43,
+                            "value": 31
+                        },
+                        {
+                            "key": 50,
+                            "value": 50
+                        },
+                        {
+                            "key": 48,
+                            "value": 113
+                        },
+                        {
+                            "key": 61,
+                            "value": 52
+                        },
+                        {
+                            "key": 73,
+                            "value": 20
+                        },
+                        {
+                            "key": 55,
+                            "value": 62
+                        },
+                        {
+                            "key": 41,
+                            "value": 28
+                        },
+                        {
+                            "key": 69,
+                            "value": 45
+                        },
+                        {
+                            "key": 85,
+                            "value": 4
+                        },
+                        {
+                            "key": 64,
+                            "value": 40
+                        },
+                        {
+                            "key": 33,
+                            "value": 17
+                        },
+                        {
+                            "key": 20,
+                            "value": 4
+                        },
+                        {
+                            "key": 44,
+                            "value": 42
+                        },
+                        {
+                            "key": 66,
+                            "value": 51
+                        },
+                        {
+                            "key": 39,
+                            "value": 51
+                        },
+                        {
+                            "key": 76,
+                            "value": 12
+                        },
+                        {
+                            "key": 47,
+                            "value": 40
+                        },
+                        {
+                            "key": 56,
+                            "value": 38
+                        },
+                        {
+                            "key": 60,
+                            "value": 63
+                        },
+                        {
+                            "key": 79,
+                            "value": 11
+                        },
+                        {
+                            "key": 51,
+                            "value": 121
+                        },
+                        {
+                            "key": 45,
+                            "value": 77
+                        },
+                        {
+                            "key": 57,
+                            "value": 86
+                        },
+                        {
+                            "key": 71,
+                            "value": 16
+                        },
+                        {
+                            "key": 52,
+                            "value": 61
+                        },
+                        {
+                            "key": 53,
+                            "value": 62
+                        },
+                        {
+                            "key": 59,
+                            "value": 38
+                        },
+                        {
+                            "key": 38,
+                            "value": 27
+                        },
+                        {
+                            "key": 75,
+                            "value": 17
+                        },
+                        {
+                            "key": 62,
+                            "value": 29
+                        },
+                        {
+                            "key": 40,
+                            "value": 16
+                        },
+                        {
+                            "key": 35,
+                            "value": 21
+                        },
+                        {
+                            "key": 68,
+                            "value": 18
+                        },
+                        {
+                            "key": 58,
+                            "value": 31
+                        },
+                        {
+                            "key": 70,
+                            "value": 20
+                        },
+                        {
+                            "key": 46,
+                            "value": 41
+                        },
+                        {
+                            "key": 23,
+                            "value": 2
+                        },
+                        {
+                            "key": 37,
+                            "value": 16
+                        },
+                        {
+                            "key": 34,
+                            "value": 10
+                        },
+                        {
+                            "key": 49,
+                            "value": 39
+                        },
+                        {
+                            "key": 65,
+                            "value": 29
+                        },
+                        {
+                            "key": 54,
+                            "value": 97
+                        },
+                        {
+                            "key": 63,
+                            "value": 56
+                        },
+                        {
+                            "key": 92,
+                            "value": 2
+                        },
+                        {
+                            "key": 24,
+                            "value": 3
+                        },
+                        {
+                            "key": 88,
+                            "value": 3
+                        },
+                        {
+                            "key": 42,
+                            "value": 62
+                        },
+                        {
+                            "key": 29,
+                            "value": 4
+                        },
+                        {
+                            "key": 72,
+                            "value": 23
+                        },
+                        {
+                            "key": 21,
+                            "value": 3
+                        },
+                        {
+                            "key": 84,
+                            "value": 5
+                        },
+                        {
+                            "key": 74,
+                            "value": 7
+                        },
+                        {
+                            "key": 80,
+                            "value": 4
+                        },
+                        {
+                            "key": 30,
+                            "value": 12
+                        },
+                        {
+                            "key": 104,
+                            "value": 1
+                        },
+                        {
+                            "key": 32,
+                            "value": 9
+                        },
+                        {
+                            "key": 81,
+                            "value": 7
+                        },
+                        {
+                            "key": 25,
+                            "value": 1
+                        },
+                        {
+                            "key": 27,
+                            "value": 9
+                        },
+                        {
+                            "key": 107,
+                            "value": 2
+                        },
+                        {
+                            "key": 15,
+                            "value": 1
+                        },
+                        {
+                            "key": 13,
+                            "value": 1
+                        },
+                        {
+                            "key": 78,
+                            "value": 14
+                        },
+                        {
+                            "key": 83,
+                            "value": 8
+                        },
+                        {
+                            "key": 26,
+                            "value": 1
+                        },
+                        {
+                            "key": 118,
+                            "value": 1
+                        },
+                        {
+                            "key": 17,
+                            "value": 1
+                        },
+                        {
+                            "key": 31,
+                            "value": 4
+                        },
+                        {
+                            "key": 77,
+                            "value": 4
+                        },
+                        {
+                            "key": 16,
+                            "value": 1
+                        },
+                        {
+                            "key": 82,
+                            "value": 4
+                        },
+                        {
+                            "key": 95,
+                            "value": 1
+                        },
+                        {
+                            "key": 28,
+                            "value": 2
+                        },
+                        {
+                            "key": 110,
+                            "value": 1
+                        },
+                        {
+                            "key": 99,
+                            "value": 1
+                        },
+                        {
+                            "key": 86,
+                            "value": 3
+                        },
+                        {
+                            "key": 87,
+                            "value": 3
+                        },
+                        {
+                            "key": 89,
+                            "value": 2
+                        },
+                        {
+                            "key": 18,
+                            "value": 1
+                        },
+                        {
+                            "key": 101,
+                            "value": 1
+                        },
+                        {
+                            "key": 94,
+                            "value": 1
+                        },
+                        {
+                            "key": 36,
+                            "value": 34
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "junction_aa_length",
+                    "total": 3472,
+                    "data": [
+                        {
+                            "key": 22,
+                            "value": 97
+                        },
+                        {
+                            "key": 16,
+                            "value": 202
+                        },
+                        {
+                            "key": 24,
+                            "value": 50
+                        },
+                        {
+                            "key": 20,
+                            "value": 144
+                        },
+                        {
+                            "key": 18,
+                            "value": 197
+                        },
+                        {
+                            "key": 14,
+                            "value": 135
+                        },
+                        {
+                            "key": 13,
+                            "value": 95
+                        },
+                        {
+                            "key": 23,
+                            "value": 81
+                        },
+                        {
+                            "key": 28,
+                            "value": 12
+                        },
+                        {
+                            "key": 19,
+                            "value": 155
+                        },
+                        {
+                            "key": 21,
+                            "value": 125
+                        },
+                        {
+                            "key": 17,
+                            "value": 244
+                        },
+                        {
+                            "key": 0,
+                            "value": 1493
+                        },
+                        {
+                            "key": 15,
+                            "value": 158
+                        },
+                        {
+                            "key": 11,
+                            "value": 48
+                        },
+                        {
+                            "key": 6,
+                            "value": 5
+                        },
+                        {
+                            "key": 25,
+                            "value": 33
+                        },
+                        {
+                            "key": 29,
+                            "value": 8
+                        },
+                        {
+                            "key": 9,
+                            "value": 15
+                        },
+                        {
+                            "key": 26,
+                            "value": 29
+                        },
+                        {
+                            "key": 12,
+                            "value": 77
+                        },
+                        {
+                            "key": 7,
+                            "value": 5
+                        },
+                        {
+                            "key": 10,
+                            "value": 25
+                        },
+                        {
+                            "key": 30,
+                            "value": 2
+                        },
+                        {
+                            "key": 8,
+                            "value": 5
+                        },
+                        {
+                            "key": 27,
+                            "value": 19
+                        },
+                        {
+                            "key": 34,
+                            "value": 1
+                        },
+                        {
+                            "key": 5,
+                            "value": 3
+                        },
+                        {
+                            "key": 35,
+                            "value": 2
+                        },
+                        {
+                            "key": 4,
+                            "value": 1
+                        },
+                        {
+                            "key": 39,
+                            "value": 1
+                        },
+                        {
+                            "key": 33,
+                            "value": 2
+                        },
+                        {
+                            "key": 36,
+                            "value": 1
+                        },
+                        {
+                            "key": 31,
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "junction_length_productive",
+                    "total": 926,
+                    "data": [
+                        {
+                            "key": 0,
+                            "value": 1
+                        },
+                        {
+                            "key": 50,
+                            "value": 1
+                        },
+                        {
+                            "key": 41,
+                            "value": 1
+                        },
+                        {
+                            "key": 69,
+                            "value": 37
+                        },
+                        {
+                            "key": 85,
+                            "value": 1
+                        },
+                        {
+                            "key": 64,
+                            "value": 1
+                        },
+                        {
+                            "key": 33,
+                            "value": 18
+                        },
+                        {
+                            "key": 20,
+                            "value": 1
+                        },
+                        {
+                            "key": 55,
+                            "value": 1
+                        },
+                        {
+                            "key": 44,
+                            "value": 1
+                        },
+                        {
+                            "key": 39,
+                            "value": 48
+                        },
+                        {
+                            "key": 66,
+                            "value": 45
+                        },
+                        {
+                            "key": 76,
+                            "value": 1
+                        },
+                        {
+                            "key": 47,
+                            "value": 1
+                        },
+                        {
+                            "key": 56,
+                            "value": 1
+                        },
+                        {
+                            "key": 60,
+                            "value": 54
+                        },
+                        {
+                            "key": 79,
+                            "value": 1
+                        },
+                        {
+                            "key": 48,
+                            "value": 100
+                        },
+                        {
+                            "key": 71,
+                            "value": 1
+                        },
+                        {
+                            "key": 52,
+                            "value": 1
+                        },
+                        {
+                            "key": 53,
+                            "value": 1
+                        },
+                        {
+                            "key": 57,
+                            "value": 76
+                        },
+                        {
+                            "key": 59,
+                            "value": 1
+                        },
+                        {
+                            "key": 38,
+                            "value": 1
+                        },
+                        {
+                            "key": 75,
+                            "value": 17
+                        },
+                        {
+                            "key": 62,
+                            "value": 1
+                        },
+                        {
+                            "key": 40,
+                            "value": 1
+                        },
+                        {
+                            "key": 35,
+                            "value": 1
+                        },
+                        {
+                            "key": 68,
+                            "value": 1
+                        },
+                        {
+                            "key": 58,
+                            "value": 1
+                        },
+                        {
+                            "key": 70,
+                            "value": 1
+                        },
+                        {
+                            "key": 51,
+                            "value": 101
+                        },
+                        {
+                            "key": 45,
+                            "value": 74
+                        },
+                        {
+                            "key": 34,
+                            "value": 1
+                        },
+                        {
+                            "key": 49,
+                            "value": 1
+                        },
+                        {
+                            "key": 65,
+                            "value": 1
+                        },
+                        {
+                            "key": 37,
+                            "value": 1
+                        },
+                        {
+                            "key": 54,
+                            "value": 84
+                        },
+                        {
+                            "key": 63,
+                            "value": 47
+                        },
+                        {
+                            "key": 24,
+                            "value": 3
+                        },
+                        {
+                            "key": 92,
+                            "value": 1
+                        },
+                        {
+                            "key": 88,
+                            "value": 1
+                        },
+                        {
+                            "key": 67,
+                            "value": 1
+                        },
+                        {
+                            "key": 42,
+                            "value": 58
+                        },
+                        {
+                            "key": 29,
+                            "value": 1
+                        },
+                        {
+                            "key": 72,
+                            "value": 21
+                        },
+                        {
+                            "key": 43,
+                            "value": 1
+                        },
+                        {
+                            "key": 80,
+                            "value": 1
+                        },
+                        {
+                            "key": 74,
+                            "value": 1
+                        },
+                        {
+                            "key": 61,
+                            "value": 1
+                        },
+                        {
+                            "key": 104,
+                            "value": 1
+                        },
+                        {
+                            "key": 30,
+                            "value": 9
+                        },
+                        {
+                            "key": 32,
+                            "value": 1
+                        },
+                        {
+                            "key": 81,
+                            "value": 8
+                        },
+                        {
+                            "key": 25,
+                            "value": 1
+                        },
+                        {
+                            "key": 27,
+                            "value": 9
+                        },
+                        {
+                            "key": 107,
+                            "value": 1
+                        },
+                        {
+                            "key": 15,
+                            "value": 2
+                        },
+                        {
+                            "key": 73,
+                            "value": 1
+                        },
+                        {
+                            "key": 21,
+                            "value": 4
+                        },
+                        {
+                            "key": 46,
+                            "value": 1
+                        },
+                        {
+                            "key": 84,
+                            "value": 4
+                        },
+                        {
+                            "key": 23,
+                            "value": 1
+                        },
+                        {
+                            "key": 13,
+                            "value": 1
+                        },
+                        {
+                            "key": 83,
+                            "value": 1
+                        },
+                        {
+                            "key": 82,
+                            "value": 1
+                        },
+                        {
+                            "key": 95,
+                            "value": 1
+                        },
+                        {
+                            "key": 78,
+                            "value": 12
+                        },
+                        {
+                            "key": 28,
+                            "value": 1
+                        },
+                        {
+                            "key": 16,
+                            "value": 1
+                        },
+                        {
+                            "key": 110,
+                            "value": 1
+                        },
+                        {
+                            "key": 86,
+                            "value": 1
+                        },
+                        {
+                            "key": 99,
+                            "value": 2
+                        },
+                        {
+                            "key": 87,
+                            "value": 3
+                        },
+                        {
+                            "key": 89,
+                            "value": 1
+                        },
+                        {
+                            "key": 18,
+                            "value": 2
+                        },
+                        {
+                            "key": 101,
+                            "value": 1
+                        },
+                        {
+                            "key": 94,
+                            "value": 1
+                        },
+                        {
+                            "key": 26,
+                            "value": 1
+                        },
+                        {
+                            "key": 36,
+                            "value": 30
+                        },
+                        {
+                            "key": 31,
+                            "value": 1
+                        },
+                        {
+                            "key": 77,
+                            "value": 1
+                        },
+                        {
+                            "key": 118,
+                            "value": 1
+                        },
+                        {
+                            "key": 17,
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "junction_aa_length_productive",
+                    "total": 842,
+                    "data": [
+                        {
+                            "key": 22,
+                            "value": 44
+                        },
+                        {
+                            "key": 16,
+                            "value": 99
+                        },
+                        {
+                            "key": 24,
+                            "value": 20
+                        },
+                        {
+                            "key": 20,
+                            "value": 53
+                        },
+                        {
+                            "key": 18,
+                            "value": 83
+                        },
+                        {
+                            "key": 14,
+                            "value": 57
+                        },
+                        {
+                            "key": 13,
+                            "value": 47
+                        },
+                        {
+                            "key": 23,
+                            "value": 36
+                        },
+                        {
+                            "key": 11,
+                            "value": 17
+                        },
+                        {
+                            "key": 6,
+                            "value": 1
+                        },
+                        {
+                            "key": 25,
+                            "value": 16
+                        },
+                        {
+                            "key": 29,
+                            "value": 2
+                        },
+                        {
+                            "key": 9,
+                            "value": 8
+                        },
+                        {
+                            "key": 26,
+                            "value": 11
+                        },
+                        {
+                            "key": 12,
+                            "value": 29
+                        },
+                        {
+                            "key": 21,
+                            "value": 46
+                        },
+                        {
+                            "key": 28,
+                            "value": 3
+                        },
+                        {
+                            "key": 0,
+                            "value": 0
+                        },
+                        {
+                            "key": 15,
+                            "value": 73
+                        },
+                        {
+                            "key": 10,
+                            "value": 8
+                        },
+                        {
+                            "key": 30,
+                            "value": 0
+                        },
+                        {
+                            "key": 17,
+                            "value": 100
+                        },
+                        {
+                            "key": 19,
+                            "value": 75
+                        },
+                        {
+                            "key": 7,
+                            "value": 3
+                        },
+                        {
+                            "key": 33,
+                            "value": 1
+                        },
+                        {
+                            "key": 36,
+                            "value": 0
+                        },
+                        {
+                            "key": 5,
+                            "value": 1
+                        },
+                        {
+                            "key": 4,
+                            "value": 0
+                        },
+                        {
+                            "key": 39,
+                            "value": 0
+                        },
+                        {
+                            "key": 35,
+                            "value": 0
+                        },
+                        {
+                            "key": 8,
+                            "value": 2
+                        },
+                        {
+                            "key": 34,
+                            "value": 0
+                        },
+                        {
+                            "key": 27,
+                            "value": 7
+                        },
+                        {
+                            "key": 31,
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "repertoires": {
+                "repertoire_id": "279",
+                "sample_processing_id": "433",
+                "data_processing_id": "433"
+            },
+            "statistics": [
+                {
+                    "statistic_name": "junction_length",
+                    "total": 2485869,
+                    "data": [
+                        {
+                            "key": 45,
+                            "value": 365525
+                        },
+                        {
+                            "key": 48,
+                            "value": 316099
+                        },
+                        {
+                            "key": 42,
+                            "value": 258202
+                        },
+                        {
+                            "key": 33,
+                            "value": 246661
+                        },
+                        {
+                            "key": 36,
+                            "value": 260304
+                        },
+                        {
+                            "key": 51,
+                            "value": 179916
+                        },
+                        {
+                            "key": 54,
+                            "value": 146676
+                        },
+                        {
+                            "key": 60,
+                            "value": 102726
+                        },
+                        {
+                            "key": 41,
+                            "value": 1737
+                        },
+                        {
+                            "key": 57,
+                            "value": 108602
+                        },
+                        {
+                            "key": 27,
+                            "value": 22961
+                        },
+                        {
+                            "key": 56,
+                            "value": 705
+                        },
+                        {
+                            "key": 63,
+                            "value": 23074
+                        },
+                        {
+                            "key": 0,
+                            "value": 9958
+                        },
+                        {
+                            "key": 24,
+                            "value": 31344
+                        },
+                        {
+                            "key": 58,
+                            "value": 634
+                        },
+                        {
+                            "key": 50,
+                            "value": 1076
+                        },
+                        {
+                            "key": 21,
+                            "value": 12944
+                        },
+                        {
+                            "key": 44,
+                            "value": 2302
+                        },
+                        {
+                            "key": 18,
+                            "value": 6680
+                        },
+                        {
+                            "key": 59,
+                            "value": 1333
+                        },
+                        {
+                            "key": 23,
+                            "value": 1147
+                        },
+                        {
+                            "key": 34,
+                            "value": 922
+                        },
+                        {
+                            "key": 39,
+                            "value": 250485
+                        },
+                        {
+                            "key": 30,
+                            "value": 120378
+                        },
+                        {
+                            "key": 46,
+                            "value": 780
+                        },
+                        {
+                            "key": 47,
+                            "value": 1356
+                        },
+                        {
+                            "key": 25,
+                            "value": 554
+                        },
+                        {
+                            "key": 15,
+                            "value": 479
+                        },
+                        {
+                            "key": 17,
+                            "value": 579
+                        },
+                        {
+                            "key": 49,
+                            "value": 898
+                        },
+                        {
+                            "key": 53,
+                            "value": 925
+                        },
+                        {
+                            "key": 20,
+                            "value": 50
+                        },
+                        {
+                            "key": 43,
+                            "value": 679
+                        },
+                        {
+                            "key": 32,
+                            "value": 825
+                        },
+                        {
+                            "key": 55,
+                            "value": 490
+                        },
+                        {
+                            "key": 38,
+                            "value": 1093
+                        },
+                        {
+                            "key": 40,
+                            "value": 605
+                        },
+                        {
+                            "key": 37,
+                            "value": 530
+                        },
+                        {
+                            "key": 62,
+                            "value": 158
+                        },
+                        {
+                            "key": 29,
+                            "value": 320
+                        },
+                        {
+                            "key": 28,
+                            "value": 310
+                        },
+                        {
+                            "key": 22,
+                            "value": 41
+                        },
+                        {
+                            "key": 31,
+                            "value": 455
+                        },
+                        {
+                            "key": 66,
+                            "value": 35
+                        },
+                        {
+                            "key": 61,
+                            "value": 298
+                        },
+                        {
+                            "key": 26,
+                            "value": 155
+                        },
+                        {
+                            "key": 16,
+                            "value": 12
+                        },
+                        {
+                            "key": 14,
+                            "value": 13
+                        },
+                        {
+                            "key": 13,
+                            "value": 6
+                        },
+                        {
+                            "key": 64,
+                            "value": 97
+                        },
+                        {
+                            "key": 9,
+                            "value": 2
+                        },
+                        {
+                            "key": 65,
+                            "value": 6
+                        },
+                        {
+                            "key": 69,
+                            "value": 6
+                        },
+                        {
+                            "key": 80,
+                            "value": 1
+                        },
+                        {
+                            "key": 81,
+                            "value": 2
+                        },
+                        {
+                            "key": 72,
+                            "value": 4
+                        },
+                        {
+                            "key": 131,
+                            "value": 1
+                        },
+                        {
+                            "key": 12,
+                            "value": 2
+                        },
+                        {
+                            "key": 100,
+                            "value": 1
+                        },
+                        {
+                            "key": 52,
+                            "value": 414
+                        },
+                        {
+                            "key": 35,
+                            "value": 1105
+                        },
+                        {
+                            "key": 92,
+                            "value": 1
+                        },
+                        {
+                            "key": 78,
+                            "value": 1
+                        },
+                        {
+                            "key": 91,
+                            "value": 1
+                        },
+                        {
+                            "key": 10,
+                            "value": 94
+                        },
+                        {
+                            "key": 19,
+                            "value": 94
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "junction_aa_length",
+                    "total": 2485869,
+                    "data": [
+                        {
+                            "key": 15,
+                            "value": 367661
+                        },
+                        {
+                            "key": 16,
+                            "value": 318073
+                        },
+                        {
+                            "key": 14,
+                            "value": 261183
+                        },
+                        {
+                            "key": 11,
+                            "value": 248688
+                        },
+                        {
+                            "key": 12,
+                            "value": 261927
+                        },
+                        {
+                            "key": 13,
+                            "value": 252827
+                        },
+                        {
+                            "key": 0,
+                            "value": 9958
+                        },
+                        {
+                            "key": 21,
+                            "value": 23177
+                        },
+                        {
+                            "key": 9,
+                            "value": 23591
+                        },
+                        {
+                            "key": 7,
+                            "value": 14132
+                        },
+                        {
+                            "key": 6,
+                            "value": 6824
+                        },
+                        {
+                            "key": 5,
+                            "value": 1070
+                        },
+                        {
+                            "key": 22,
+                            "value": 35
+                        },
+                        {
+                            "key": 3,
+                            "value": 96
+                        },
+                        {
+                            "key": 4,
+                            "value": 21
+                        },
+                        {
+                            "key": 23,
+                            "value": 6
+                        },
+                        {
+                            "key": 26,
+                            "value": 2
+                        },
+                        {
+                            "key": 10,
+                            "value": 121658
+                        },
+                        {
+                            "key": 43,
+                            "value": 1
+                        },
+                        {
+                            "key": 33,
+                            "value": 1
+                        },
+                        {
+                            "key": 24,
+                            "value": 4
+                        },
+                        {
+                            "key": 30,
+                            "value": 2
+                        },
+                        {
+                            "key": 17,
+                            "value": 181255
+                        },
+                        {
+                            "key": 8,
+                            "value": 32053
+                        },
+                        {
+                            "key": 18,
+                            "value": 147871
+                        },
+                        {
+                            "key": 20,
+                            "value": 103182
+                        },
+                        {
+                            "key": 19,
+                            "value": 110569
+                        },
+                        {
+                            "key": 27,
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "junction_length_productive",
+                    "total": 2368226,
+                    "data": [
+                        {
+                            "key": 45,
+                            "value": 353187
+                        },
+                        {
+                            "key": 48,
+                            "value": 304984
+                        },
+                        {
+                            "key": 42,
+                            "value": 249045
+                        },
+                        {
+                            "key": 33,
+                            "value": 239616
+                        },
+                        {
+                            "key": 36,
+                            "value": 252317
+                        },
+                        {
+                            "key": 51,
+                            "value": 173750
+                        },
+                        {
+                            "key": 54,
+                            "value": 141263
+                        },
+                        {
+                            "key": 60,
+                            "value": 97026
+                        },
+                        {
+                            "key": 41,
+                            "value": 1
+                        },
+                        {
+                            "key": 58,
+                            "value": 1
+                        },
+                        {
+                            "key": 50,
+                            "value": 1
+                        },
+                        {
+                            "key": 21,
+                            "value": 12620
+                        },
+                        {
+                            "key": 44,
+                            "value": 1
+                        },
+                        {
+                            "key": 18,
+                            "value": 6536
+                        },
+                        {
+                            "key": 59,
+                            "value": 1
+                        },
+                        {
+                            "key": 23,
+                            "value": 1
+                        },
+                        {
+                            "key": 34,
+                            "value": 1
+                        },
+                        {
+                            "key": 39,
+                            "value": 241599
+                        },
+                        {
+                            "key": 46,
+                            "value": 1
+                        },
+                        {
+                            "key": 57,
+                            "value": 104114
+                        },
+                        {
+                            "key": 47,
+                            "value": 1
+                        },
+                        {
+                            "key": 25,
+                            "value": 1
+                        },
+                        {
+                            "key": 15,
+                            "value": 477
+                        },
+                        {
+                            "key": 17,
+                            "value": 1
+                        },
+                        {
+                            "key": 49,
+                            "value": 1
+                        },
+                        {
+                            "key": 20,
+                            "value": 1
+                        },
+                        {
+                            "key": 53,
+                            "value": 1
+                        },
+                        {
+                            "key": 63,
+                            "value": 22001
+                        },
+                        {
+                            "key": 43,
+                            "value": 1
+                        },
+                        {
+                            "key": 32,
+                            "value": 1
+                        },
+                        {
+                            "key": 27,
+                            "value": 22302
+                        },
+                        {
+                            "key": 0,
+                            "value": 1
+                        },
+                        {
+                            "key": 56,
+                            "value": 1
+                        },
+                        {
+                            "key": 24,
+                            "value": 30583
+                        },
+                        {
+                            "key": 55,
+                            "value": 1
+                        },
+                        {
+                            "key": 28,
+                            "value": 1
+                        },
+                        {
+                            "key": 22,
+                            "value": 1
+                        },
+                        {
+                            "key": 40,
+                            "value": 1
+                        },
+                        {
+                            "key": 30,
+                            "value": 116719
+                        },
+                        {
+                            "key": 38,
+                            "value": 1
+                        },
+                        {
+                            "key": 29,
+                            "value": 1
+                        },
+                        {
+                            "key": 37,
+                            "value": 1
+                        },
+                        {
+                            "key": 62,
+                            "value": 1
+                        },
+                        {
+                            "key": 31,
+                            "value": 1
+                        },
+                        {
+                            "key": 66,
+                            "value": 25
+                        },
+                        {
+                            "key": 61,
+                            "value": 1
+                        },
+                        {
+                            "key": 16,
+                            "value": 1
+                        },
+                        {
+                            "key": 26,
+                            "value": 1
+                        },
+                        {
+                            "key": 14,
+                            "value": 1
+                        },
+                        {
+                            "key": 13,
+                            "value": 1
+                        },
+                        {
+                            "key": 64,
+                            "value": 1
+                        },
+                        {
+                            "key": 9,
+                            "value": 3
+                        },
+                        {
+                            "key": 65,
+                            "value": 1
+                        },
+                        {
+                            "key": 69,
+                            "value": 7
+                        },
+                        {
+                            "key": 80,
+                            "value": 1
+                        },
+                        {
+                            "key": 81,
+                            "value": 1
+                        },
+                        {
+                            "key": 72,
+                            "value": 4
+                        },
+                        {
+                            "key": 131,
+                            "value": 1
+                        },
+                        {
+                            "key": 12,
+                            "value": 2
+                        },
+                        {
+                            "key": 100,
+                            "value": 1
+                        },
+                        {
+                            "key": 52,
+                            "value": 1
+                        },
+                        {
+                            "key": 35,
+                            "value": 1
+                        },
+                        {
+                            "key": 92,
+                            "value": 1
+                        },
+                        {
+                            "key": 78,
+                            "value": 2
+                        },
+                        {
+                            "key": 91,
+                            "value": 1
+                        },
+                        {
+                            "key": 10,
+                            "value": 1
+                        },
+                        {
+                            "key": 19,
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "junction_aa_length_productive",
+                    "total": 2368159,
+                    "data": [
+                        {
+                            "key": 14,
+                            "value": 249044
+                        },
+                        {
+                            "key": 11,
+                            "value": 239615
+                        },
+                        {
+                            "key": 16,
+                            "value": 304983
+                        },
+                        {
+                            "key": 15,
+                            "value": 353186
+                        },
+                        {
+                            "key": 12,
+                            "value": 252316
+                        },
+                        {
+                            "key": 13,
+                            "value": 241598
+                        },
+                        {
+                            "key": 0,
+                            "value": 0
+                        },
+                        {
+                            "key": 21,
+                            "value": 22000
+                        },
+                        {
+                            "key": 9,
+                            "value": 22301
+                        },
+                        {
+                            "key": 7,
+                            "value": 12619
+                        },
+                        {
+                            "key": 5,
+                            "value": 476
+                        },
+                        {
+                            "key": 6,
+                            "value": 6535
+                        },
+                        {
+                            "key": 22,
+                            "value": 24
+                        },
+                        {
+                            "key": 3,
+                            "value": 2
+                        },
+                        {
+                            "key": 4,
+                            "value": 1
+                        },
+                        {
+                            "key": 23,
+                            "value": 6
+                        },
+                        {
+                            "key": 26,
+                            "value": 1
+                        },
+                        {
+                            "key": 10,
+                            "value": 116718
+                        },
+                        {
+                            "key": 43,
+                            "value": 0
+                        },
+                        {
+                            "key": 24,
+                            "value": 3
+                        },
+                        {
+                            "key": 30,
+                            "value": 0
+                        },
+                        {
+                            "key": 17,
+                            "value": 173749
+                        },
+                        {
+                            "key": 8,
+                            "value": 30582
+                        },
+                        {
+                            "key": 18,
+                            "value": 141262
+                        },
+                        {
+                            "key": 20,
+                            "value": 97025
+                        },
+                        {
+                            "key": 19,
+                            "value": 104113
+                        },
+                        {
+                            "key": 33,
+                            "value": 0
+                        },
+                        {
+                            "key": 27,
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
