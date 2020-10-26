@@ -1,0 +1,10 @@
+{
+  "repertoires": [
+    {"repertoire":{"repertoire_id":"322"}},
+    {"repertoire":{"repertoire_id": "279"}}
+  ],
+  "statistics" : [
+    "j_call_unique", 
+    "j_gene_unique", 
+    "j_subgroup_unique"]	
+}

@@ -1,0 +1,88 @@
+{
+  "Info": {
+    "title": "iReceptorPlus Statistics API",
+    "version": "0.3.0",
+    "description": "Statistics API for the iReceptor Plus platform.",
+    "contact": null
+  },
+  "Message": [
+    {
+      "repertoires": {
+        "repertoire_id": "322",
+        "sample_processing_id": "398",
+        "data_processing_id": "398"
+      },
+      "statistics": [
+        {
+          "statistic_name": "c_call_unique",
+          "total": 842,
+          "data": [
+            {
+              "key": null,
+              "value": 842
+            }
+          ]
+        },
+        {
+          "statistic_name": "c_gene_unique",
+          "total": 842,
+          "data": [
+            {
+              "key": null,
+              "value": 842
+            }
+          ]
+        },
+        {
+          "statistic_name": "c_subgroup_unique",
+          "total": 842,
+          "data": [
+            {
+              "key": null,
+              "value": 842
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repertoires": {
+        "repertoire_id": "279",
+        "sample_processing_id": "433",
+        "data_processing_id": "433"
+      },
+      "statistics": [
+        {
+          "statistic_name": "c_call_unique",
+          "total": 2368159,
+          "data": [
+            {
+              "key": null,
+              "value": 2368159
+            }
+          ]
+        },
+        {
+          "statistic_name": "c_gene_unique",
+          "total": 2368159,
+          "data": [
+            {
+              "key": null,
+              "value": 2368159
+            }
+          ]
+        },
+        {
+          "statistic_name": "c_subgroup_unique",
+          "total": 2368159,
+          "data": [
+            {
+              "key": null,
+              "value": 2368159
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

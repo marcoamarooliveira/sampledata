@@ -1,0 +1,600 @@
+{
+  "Info": {
+    "title": "iReceptorPlus Statistics API",
+    "version": "0.3.0",
+    "description": "Statistics API for the iReceptor Plus platform.",
+    "contact": null
+  },
+  "Message": [
+    {
+      "repertoires": {
+        "repertoire_id": "322",
+        "sample_processing_id": "398",
+        "data_processing_id": "398"
+      },
+      "statistics": [
+        {
+          "statistic_name": "d_call_unique",
+          "total": 3472,
+          "data": [
+            {
+              "key": "IGHD2-2*01",
+              "value": 160
+            },
+            {
+              "key": null,
+              "value": 1530
+            },
+            {
+              "key": "IGHD6-13*01",
+              "value": 104
+            },
+            {
+              "key": "IGHD2-21*01",
+              "value": 32
+            },
+            {
+              "key": "IGHD3-22*01",
+              "value": 159
+            },
+            {
+              "key": "IGHD3-3*02",
+              "value": 13
+            },
+            {
+              "key": "IGHD2-15*01",
+              "value": 106
+            },
+            {
+              "key": "IGHD6-6*01",
+              "value": 62
+            },
+            {
+              "key": "IGHD1-26*01",
+              "value": 107
+            },
+            {
+              "key": "IGHD3-3*01",
+              "value": 173
+            },
+            {
+              "key": "IGHD1-1*01",
+              "value": 47
+            },
+            {
+              "key": "IGHD3-10*02",
+              "value": 39
+            },
+            {
+              "key": "IGHD5-12*01",
+              "value": 54
+            },
+            {
+              "key": "IGHD1-20*01",
+              "value": 15
+            },
+            {
+              "key": "IGHD4-17*01",
+              "value": 63
+            },
+            {
+              "key": "IGHD2-21*02",
+              "value": 46
+            },
+            {
+              "key": "IGHD1-7*01",
+              "value": 17
+            },
+            {
+              "key": "IGHD3-9*01",
+              "value": 54
+            },
+            {
+              "key": "IGHD5-24*01",
+              "value": 76
+            },
+            {
+              "key": "IGHD2-8*01",
+              "value": 29
+            },
+            {
+              "key": "IGHD4-11*01",
+              "value": 47
+            },
+            {
+              "key": "IGHD2-8*02",
+              "value": 11
+            },
+            {
+              "key": "IGHD3-16*01",
+              "value": 48
+            },
+            {
+              "key": "IGHD3-16*02",
+              "value": 27
+            },
+            {
+              "key": "IGHD7-27*01",
+              "value": 5
+            },
+            {
+              "key": "IGHD6-25*01",
+              "value": 9
+            },
+            {
+              "key": "IGHD2-2*03",
+              "value": 4
+            },
+            {
+              "key": "IGHD5-18*01",
+              "value": 84
+            },
+            {
+              "key": "IGHD2-2*02",
+              "value": 40
+            },
+            {
+              "key": "IGHD4-23*01",
+              "value": 37
+            },
+            {
+              "key": "IGHD6-19*01",
+              "value": 106
+            },
+            {
+              "key": "IGHD3-10*01",
+              "value": 147
+            },
+            {
+              "key": "IGHD1-14*01",
+              "value": 21
+            }
+          ]
+        },
+        {
+          "statistic_name": "d_gene_unique",
+          "total": 3472,
+          "data": [
+            {
+              "key": null,
+              "value": 1530
+            },
+            {
+              "key": "IGHD2-2",
+              "value": 204
+            },
+            {
+              "key": "IGHD2-21",
+              "value": 78
+            },
+            {
+              "key": "IGHD2-15",
+              "value": 106
+            },
+            {
+              "key": "IGHD1-26",
+              "value": 107
+            },
+            {
+              "key": "IGHD6-6",
+              "value": 62
+            },
+            {
+              "key": "IGHD6-19",
+              "value": 106
+            },
+            {
+              "key": "IGHD5-18",
+              "value": 84
+            },
+            {
+              "key": "IGHD1-1",
+              "value": 47
+            },
+            {
+              "key": "IGHD4-23",
+              "value": 37
+            },
+            {
+              "key": "IGHD1-14",
+              "value": 21
+            },
+            {
+              "key": "IGHD4-17",
+              "value": 63
+            },
+            {
+              "key": "IGHD5-12",
+              "value": 54
+            },
+            {
+              "key": "IGHD1-20",
+              "value": 15
+            },
+            {
+              "key": "IGHD6-13",
+              "value": 104
+            },
+            {
+              "key": "IGHD3-10",
+              "value": 186
+            },
+            {
+              "key": "IGHD3-3",
+              "value": 186
+            },
+            {
+              "key": "IGHD3-22",
+              "value": 159
+            },
+            {
+              "key": "IGHD4-11",
+              "value": 47
+            },
+            {
+              "key": "IGHD3-16",
+              "value": 75
+            },
+            {
+              "key": "IGHD6-25",
+              "value": 9
+            },
+            {
+              "key": "IGHD3-9",
+              "value": 54
+            },
+            {
+              "key": "IGHD1-7",
+              "value": 17
+            },
+            {
+              "key": "IGHD2-8",
+              "value": 40
+            },
+            {
+              "key": "IGHD7-27",
+              "value": 5
+            },
+            {
+              "key": "IGHD5-24",
+              "value": 76
+            }
+          ]
+        },
+        {
+          "statistic_name": "d_subgroup_unique",
+          "total": 3472,
+          "data": [
+            {
+              "key": null,
+              "value": 1530
+            },
+            {
+              "key": "IGHD2",
+              "value": 428
+            },
+            {
+              "key": "IGHD3",
+              "value": 660
+            },
+            {
+              "key": "IGHD6",
+              "value": 281
+            },
+            {
+              "key": "IGHD1",
+              "value": 207
+            },
+            {
+              "key": "IGHD4",
+              "value": 147
+            },
+            {
+              "key": "IGHD7",
+              "value": 5
+            },
+            {
+              "key": "IGHD5",
+              "value": 214
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repertoires": {
+        "repertoire_id": "279",
+        "sample_processing_id": "433",
+        "data_processing_id": "433"
+      },
+      "statistics": [
+        {
+          "statistic_name": "d_call_unique",
+          "total": 2485869,
+          "data": [
+            {
+              "key": "IGHD1-1*01",
+              "value": 93275
+            },
+            {
+              "key": "IGHD6-25*01",
+              "value": 21506
+            },
+            {
+              "key": "IGHD4-17*01",
+              "value": 162659
+            },
+            {
+              "key": "IGHD6-6*01",
+              "value": 136336
+            },
+            {
+              "key": "IGHD3-22*01",
+              "value": 145399
+            },
+            {
+              "key": "IGHD2-2*01",
+              "value": 76757
+            },
+            {
+              "key": "IGHD3-16*02",
+              "value": 35492
+            },
+            {
+              "key": "IGHD1-26*01",
+              "value": 188175
+            },
+            {
+              "key": "IGHD4-23*01",
+              "value": 76581
+            },
+            {
+              "key": "IGHD6-13*01",
+              "value": 133924
+            },
+            {
+              "key": "IGHD2-2*02",
+              "value": 7696
+            },
+            {
+              "key": "IGHD7-27*01",
+              "value": 45631
+            },
+            {
+              "key": "IGHD3-3*01",
+              "value": 111462
+            },
+            {
+              "key": "IGHD2-15*01",
+              "value": 120134
+            },
+            {
+              "key": "IGHD3-10*01",
+              "value": 187805
+            },
+            {
+              "key": "IGHD3-9*01",
+              "value": 57873
+            },
+            {
+              "key": "IGHD2-21*01",
+              "value": 57373
+            },
+            {
+              "key": "IGHD3-16*01",
+              "value": 78559
+            },
+            {
+              "key": "IGHD5-18*01",
+              "value": 93826
+            },
+            {
+              "key": "IGHD5-12*01",
+              "value": 121505
+            },
+            {
+              "key": "IGHD5-24*01",
+              "value": 90161
+            },
+            {
+              "key": "IGHD6-19*01",
+              "value": 142755
+            },
+            {
+              "key": "IGHD2-8*02",
+              "value": 23888
+            },
+            {
+              "key": "IGHD2-21*02",
+              "value": 44709
+            },
+            {
+              "key": "IGHD4-11*01",
+              "value": 30942
+            },
+            {
+              "key": "IGHD1-14*01",
+              "value": 38058
+            },
+            {
+              "key": null,
+              "value": 56979
+            },
+            {
+              "key": "IGHD1-7*01",
+              "value": 29710
+            },
+            {
+              "key": "IGHD2-8*01",
+              "value": 29870
+            },
+            {
+              "key": "IGHD3-10*02",
+              "value": 24659
+            },
+            {
+              "key": "IGHD3-3*02",
+              "value": 9309
+            },
+            {
+              "key": "IGHD1-20*01",
+              "value": 12413
+            },
+            {
+              "key": "IGHD2-2*03",
+              "value": 448
+            }
+          ]
+        },
+        {
+          "statistic_name": "d_gene_unique",
+          "total": 2485869,
+          "data": [
+            {
+              "key": "IGHD1-1",
+              "value": 93275
+            },
+            {
+              "key": "IGHD4-17",
+              "value": 162659
+            },
+            {
+              "key": "IGHD6-25",
+              "value": 21506
+            },
+            {
+              "key": "IGHD7-27",
+              "value": 45631
+            },
+            {
+              "key": "IGHD3-3",
+              "value": 120771
+            },
+            {
+              "key": "IGHD4-23",
+              "value": 76581
+            },
+            {
+              "key": "IGHD3-10",
+              "value": 212464
+            },
+            {
+              "key": "IGHD2-15",
+              "value": 120134
+            },
+            {
+              "key": "IGHD3-9",
+              "value": 57873
+            },
+            {
+              "key": "IGHD2-21",
+              "value": 102082
+            },
+            {
+              "key": "IGHD5-18",
+              "value": 93826
+            },
+            {
+              "key": "IGHD5-12",
+              "value": 121505
+            },
+            {
+              "key": "IGHD5-24",
+              "value": 90161
+            },
+            {
+              "key": "IGHD1-7",
+              "value": 29710
+            },
+            {
+              "key": "IGHD6-19",
+              "value": 142755
+            },
+            {
+              "key": "IGHD4-11",
+              "value": 30942
+            },
+            {
+              "key": "IGHD1-14",
+              "value": 38058
+            },
+            {
+              "key": null,
+              "value": 56979
+            },
+            {
+              "key": "IGHD3-22",
+              "value": 145399
+            },
+            {
+              "key": "IGHD2-8",
+              "value": 53758
+            },
+            {
+              "key": "IGHD1-20",
+              "value": 12413
+            },
+            {
+              "key": "IGHD2-2",
+              "value": 84901
+            },
+            {
+              "key": "IGHD6-6",
+              "value": 136336
+            },
+            {
+              "key": "IGHD3-16",
+              "value": 114051
+            },
+            {
+              "key": "IGHD6-13",
+              "value": 133924
+            },
+            {
+              "key": "IGHD1-26",
+              "value": 188175
+            }
+          ]
+        },
+        {
+          "statistic_name": "d_subgroup_unique",
+          "total": 2485869,
+          "data": [
+            {
+              "key": "IGHD3",
+              "value": 650558
+            },
+            {
+              "key": "IGHD2",
+              "value": 360875
+            },
+            {
+              "key": "IGHD5",
+              "value": 305492
+            },
+            {
+              "key": "IGHD7",
+              "value": 45631
+            },
+            {
+              "key": "IGHD4",
+              "value": 270182
+            },
+            {
+              "key": null,
+              "value": 56979
+            },
+            {
+              "key": "IGHD1",
+              "value": 361631
+            },
+            {
+              "key": "IGHD6",
+              "value": 434521
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
