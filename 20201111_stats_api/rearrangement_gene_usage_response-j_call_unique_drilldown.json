@@ -1,0 +1,288 @@
+{
+  "Info": {
+    "title": "iReceptorPlus Statistics API",
+    "version": "0.3.0",
+    "description": "Statistics API for the iReceptor Plus platform.",
+    "contact": null
+  },
+  "Result": [
+    {
+      "repertoires": {
+        "repertoire_id": "322",
+        "sample_processing_id": "398",
+        "data_processing_id": "398"
+      },
+      "statistics": [
+        {
+          "statistic_name": "j_call_unique",
+          "total": 3116,
+          "data": [
+            {
+              "key": "IGHJ3*02",
+              "value": 195
+            },
+            {
+              "key": "IGHJ6*04",
+              "value": 168
+            },
+            {
+              "key": "IGHJ4*02",
+              "value": 595
+            },
+            {
+              "key": "IGHJ3*01",
+              "value": 55
+            },
+            {
+              "key": "IGHJ6*03",
+              "value": 269
+            },
+            {
+              "key": "IGHJ6*01",
+              "value": 39
+            },
+            {
+              "key": "IGHJ2*01",
+              "value": 159
+            },
+            {
+              "key": "IGHJ1*01",
+              "value": 52
+            },
+            {
+              "key": "IGHJ4*03",
+              "value": 97
+            },
+            {
+              "key": "IGHJ6*02",
+              "value": 32
+            },
+            {
+              "key": "IGHJ4*01",
+              "value": 6
+            },
+            {
+              "key": "IGHJ5*01",
+              "value": 8
+            },
+            {
+              "key": "",
+              "value": 1107
+            },
+            {
+              "key": "IGHJ5*02",
+              "value": 334
+            }
+          ]
+        },
+        {
+          "statistic_name": "j_gene_unique",
+          "total": 3450,
+          "data": [
+            {
+              "key": "",
+              "value": 1107
+            },
+            {
+              "key": "IGHJ6",
+              "value": 606
+            },
+            {
+              "key": "IGHJ3",
+              "value": 310
+            },
+            {
+              "key": "IGHJ5",
+              "value": 414
+            },
+            {
+              "key": "IGHJ4",
+              "value": 802
+            },
+            {
+              "key": "IGHJ1",
+              "value": 52
+            },
+            {
+              "key": "IGHJ2",
+              "value": 159
+            }
+          ]
+        },
+        {
+          "statistic_name": "j_subgroup_unique",
+          "total": 3450,
+          "data": [
+            {
+              "key": "",
+              "value": 1107
+            },
+            {
+              "key": "IGHJ6",
+              "value": 606
+            },
+            {
+              "key": "IGHJ3",
+              "value": 310
+            },
+            {
+              "key": "IGHJ4",
+              "value": 802
+            },
+            {
+              "key": "IGHJ5",
+              "value": 414
+            },
+            {
+              "key": "IGHJ1",
+              "value": 52
+            },
+            {
+              "key": "IGHJ2",
+              "value": 159
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repertoires": {
+        "repertoire_id": "279",
+        "sample_processing_id": "433",
+        "data_processing_id": "433"
+      },
+      "statistics": [
+        {
+          "statistic_name": "j_call_unique",
+          "total": 2388552,
+          "data": [
+            {
+              "key": "IGHJ4*02",
+              "value": 1239314
+            },
+            {
+              "key": "IGHJ3*02",
+              "value": 191534
+            },
+            {
+              "key": "IGHJ2*01",
+              "value": 40107
+            },
+            {
+              "key": "IGHJ1*01",
+              "value": 43281
+            },
+            {
+              "key": "IGHJ5*02",
+              "value": 293472
+            },
+            {
+              "key": "IGHJ6*02",
+              "value": 521627
+            },
+            {
+              "key": "IGHJ6*03",
+              "value": 4133
+            },
+            {
+              "key": "IGHJ4*03",
+              "value": 12216
+            },
+            {
+              "key": "",
+              "value": 9619
+            },
+            {
+              "key": "IGHJ3*01",
+              "value": 25971
+            },
+            {
+              "key": "IGHJ6*01",
+              "value": 2538
+            },
+            {
+              "key": "IGHJ4*01",
+              "value": 1389
+            },
+            {
+              "key": "IGHJ6*04",
+              "value": 1280
+            },
+            {
+              "key": "IGHJ5*01",
+              "value": 2071
+            }
+          ]
+        },
+        {
+          "statistic_name": "j_gene_unique",
+          "total": 2474122,
+          "data": [
+            {
+              "key": "IGHJ4",
+              "value": 1273408
+            },
+            {
+              "key": "IGHJ1",
+              "value": 43281
+            },
+            {
+              "key": "IGHJ3",
+              "value": 230453
+            },
+            {
+              "key": "IGHJ5",
+              "value": 338658
+            },
+            {
+              "key": "IGHJ6",
+              "value": 538596
+            },
+            {
+              "key": "",
+              "value": 9619
+            },
+            {
+              "key": "IGHJ2",
+              "value": 40107
+            }
+          ]
+        },
+        {
+          "statistic_name": "j_subgroup_unique",
+          "total": 2474122,
+          "data": [
+            {
+              "key": "IGHJ2",
+              "value": 40107
+            },
+            {
+              "key": "IGHJ6",
+              "value": 538596
+            },
+            {
+              "key": "",
+              "value": 9619
+            },
+            {
+              "key": "IGHJ4",
+              "value": 1273408
+            },
+            {
+              "key": "IGHJ5",
+              "value": 338658
+            },
+            {
+              "key": "IGHJ3",
+              "value": 230453
+            },
+            {
+              "key": "IGHJ1",
+              "value": 43281
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

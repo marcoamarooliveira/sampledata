@@ -1,0 +1,108 @@
+{
+  "Info": {
+    "title": "iReceptorPlus Statistics API",
+    "version": "0.3.0",
+    "description": "Statistics API for the iReceptor Plus platform.",
+    "contact": null
+  },
+  "Result": [
+    {
+      "repertoires": {
+        "repertoire_id": "322",
+        "sample_processing_id": "398",
+        "data_processing_id": "398"
+      },
+      "statistics": [
+        {
+          "statistic_name": "rearrangement_count",
+          "total": 3472,
+          "data": [
+            {
+              "key": "rearrangement_count",
+              "value": 3472
+            }
+          ]
+        },
+        {
+          "statistic_name": "rearrangement_count_productive",
+          "total": 842,
+          "data": [
+            {
+              "key": "rearrangement_count_productive",
+              "value": 842
+            }
+          ]
+        },
+        {
+          "statistic_name": "duplicate_count",
+          "total": 3472,
+          "data": [
+            {
+              "key": "duplicate_count",
+              "value": 3472
+            }
+          ]
+        },
+        {
+          "statistic_name": "duplicate_count_productive",
+          "total": 842,
+          "data": [
+            {
+              "key": "duplicate_count_productive",
+              "value": 842
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repertoires": {
+        "repertoire_id": "279",
+        "sample_processing_id": "433",
+        "data_processing_id": "433"
+      },
+      "statistics": [
+        {
+          "statistic_name": "rearrangement_count",
+          "total": 2485869,
+          "data": [
+            {
+              "key": "rearrangement_count",
+              "value": 2485869
+            }
+          ]
+        },
+        {
+          "statistic_name": "rearrangement_count_productive",
+          "total": 2368159,
+          "data": [
+            {
+              "key": "rearrangement_count_productive",
+              "value": 2368159
+            }
+          ]
+        },
+        {
+          "statistic_name": "duplicate_count",
+          "total": 2485869,
+          "data": [
+            {
+              "key": "duplicate_count",
+              "value": 2485869
+            }
+          ]
+        },
+        {
+          "statistic_name": "duplicate_count_productive",
+          "total": 2368159,
+          "data": [
+            {
+              "key": "duplicate_count_productive",
+              "value": 2368159
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
