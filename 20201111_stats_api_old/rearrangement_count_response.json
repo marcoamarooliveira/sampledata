@@ -19,7 +19,7 @@
           "data": [
             {
               "key": "rearrangement_count",
-              "count": 3472
+              "value": 3472
             }
           ]
         },
@@ -29,7 +29,7 @@
           "data": [
             {
               "key": "rearrangement_count_productive",
-              "count": 842
+              "value": 842
             }
           ]
         },
@@ -39,7 +39,7 @@
           "data": [
             {
               "key": "duplicate_count",
-              "count": 3472
+              "value": 3472
             }
           ]
         },
@@ -49,7 +49,7 @@
           "data": [
             {
               "key": "duplicate_count_productive",
-              "count": 842
+              "value": 842
             }
           ]
         }
@@ -68,7 +68,7 @@
           "data": [
             {
               "key": "rearrangement_count",
-              "count": 2485869
+              "value": 2485869
             }
           ]
         },
@@ -78,7 +78,7 @@
           "data": [
             {
               "key": "rearrangement_count_productive",
-              "count": 2368159
+              "value": 2368159
             }
           ]
         },
@@ -88,7 +88,7 @@
           "data": [
             {
               "key": "duplicate_count",
-              "count": 2485869
+              "value": 2485869
             }
           ]
         },
@@ -98,7 +98,7 @@
           "data": [
             {
               "key": "duplicate_count_productive",
-              "count": 2368159
+              "value": 2368159
             }
           ]
         }

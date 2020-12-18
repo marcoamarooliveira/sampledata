@@ -19,59 +19,59 @@
           "data": [
             {
               "key": "IGHJ3*02",
-              "count": 195
+              "value": 195
             },
             {
               "key": "IGHJ6*04",
-              "count": 168
+              "value": 168
             },
             {
               "key": "IGHJ4*02",
-              "count": 595
+              "value": 595
             },
             {
               "key": "IGHJ3*01",
-              "count": 55
+              "value": 55
             },
             {
               "key": "IGHJ6*03",
-              "count": 269
+              "value": 269
             },
             {
               "key": "IGHJ6*01",
-              "count": 39
+              "value": 39
             },
             {
               "key": "IGHJ2*01",
-              "count": 159
+              "value": 159
             },
             {
               "key": "IGHJ1*01",
-              "count": 52
+              "value": 52
             },
             {
               "key": "IGHJ4*03",
-              "count": 97
+              "value": 97
             },
             {
               "key": "IGHJ6*02",
-              "count": 32
+              "value": 32
             },
             {
               "key": "IGHJ4*01",
-              "count": 6
+              "value": 6
             },
             {
               "key": "IGHJ5*01",
-              "count": 8
+              "value": 8
             },
             {
               "key": "",
-              "count": 1107
+              "value": 1107
             },
             {
               "key": "IGHJ5*02",
-              "count": 334
+              "value": 334
             }
           ]
         },
@@ -81,31 +81,31 @@
           "data": [
             {
               "key": "",
-              "count": 1107
+              "value": 1107
             },
             {
               "key": "IGHJ6",
-              "count": 606
+              "value": 606
             },
             {
               "key": "IGHJ3",
-              "count": 310
+              "value": 310
             },
             {
               "key": "IGHJ5",
-              "count": 414
+              "value": 414
             },
             {
               "key": "IGHJ4",
-              "count": 802
+              "value": 802
             },
             {
               "key": "IGHJ1",
-              "count": 52
+              "value": 52
             },
             {
               "key": "IGHJ2",
-              "count": 159
+              "value": 159
             }
           ]
         },
@@ -115,31 +115,31 @@
           "data": [
             {
               "key": "",
-              "count": 1107
+              "value": 1107
             },
             {
               "key": "IGHJ6",
-              "count": 606
+              "value": 606
             },
             {
               "key": "IGHJ3",
-              "count": 310
+              "value": 310
             },
             {
               "key": "IGHJ4",
-              "count": 802
+              "value": 802
             },
             {
               "key": "IGHJ5",
-              "count": 414
+              "value": 414
             },
             {
               "key": "IGHJ1",
-              "count": 52
+              "value": 52
             },
             {
               "key": "IGHJ2",
-              "count": 159
+              "value": 159
             }
           ]
         }
@@ -158,59 +158,59 @@
           "data": [
             {
               "key": "IGHJ4*02",
-              "count": 1239314
+              "value": 1239314
             },
             {
               "key": "IGHJ3*02",
-              "count": 191534
+              "value": 191534
             },
             {
               "key": "IGHJ2*01",
-              "count": 40107
+              "value": 40107
             },
             {
               "key": "IGHJ1*01",
-              "count": 43281
+              "value": 43281
             },
             {
               "key": "IGHJ5*02",
-              "count": 293472
+              "value": 293472
             },
             {
               "key": "IGHJ6*02",
-              "count": 521627
+              "value": 521627
             },
             {
               "key": "IGHJ6*03",
-              "count": 4133
+              "value": 4133
             },
             {
               "key": "IGHJ4*03",
-              "count": 12216
+              "value": 12216
             },
             {
               "key": "",
-              "count": 9619
+              "value": 9619
             },
             {
               "key": "IGHJ3*01",
-              "count": 25971
+              "value": 25971
             },
             {
               "key": "IGHJ6*01",
-              "count": 2538
+              "value": 2538
             },
             {
               "key": "IGHJ4*01",
-              "count": 1389
+              "value": 1389
             },
             {
               "key": "IGHJ6*04",
-              "count": 1280
+              "value": 1280
             },
             {
               "key": "IGHJ5*01",
-              "count": 2071
+              "value": 2071
             }
           ]
         },
@@ -220,31 +220,31 @@
           "data": [
             {
               "key": "IGHJ4",
-              "count": 1273408
+              "value": 1273408
             },
             {
               "key": "IGHJ1",
-              "count": 43281
+              "value": 43281
             },
             {
               "key": "IGHJ3",
-              "count": 230453
+              "value": 230453
             },
             {
               "key": "IGHJ5",
-              "count": 338658
+              "value": 338658
             },
             {
               "key": "IGHJ6",
-              "count": 538596
+              "value": 538596
             },
             {
               "key": "",
-              "count": 9619
+              "value": 9619
             },
             {
               "key": "IGHJ2",
-              "count": 40107
+              "value": 40107
             }
           ]
         },
@@ -254,31 +254,31 @@
           "data": [
             {
               "key": "IGHJ2",
-              "count": 40107
+              "value": 40107
             },
             {
               "key": "IGHJ6",
-              "count": 538596
+              "value": 538596
             },
             {
               "key": "",
-              "count": 9619
+              "value": 9619
             },
             {
               "key": "IGHJ4",
-              "count": 1273408
+              "value": 1273408
             },
             {
               "key": "IGHJ5",
-              "count": 338658
+              "value": 338658
             },
             {
               "key": "IGHJ3",
-              "count": 230453
+              "value": 230453
             },
             {
               "key": "IGHJ1",
-              "count": 43281
+              "value": 43281
             }
           ]
         }
