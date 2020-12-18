@@ -1,0 +1,333 @@
+{
+  "Info": {
+    "title": "iReceptorPlus Statistics API",
+    "version": "0.3.0",
+    "description": "Statistics API for the iReceptor Plus platform.",
+    "contact": null
+  },
+  "Result": [
+    {
+      "repertoires": {
+        "repertoire_id": "PRJCA002413-LRS5-IGK",
+        "sample_processing_id": "PRJCA002413-LRS5-IGK",
+        "data_processing_id": "5faed5bdc0fea5f2fe906ff9"
+      },
+      "statistics": [
+        {
+          "statistic_name": "v_call_unique",
+          "total": 977,
+          "data": [
+            {
+              "key": "IGKV1-5",
+              "count": 57
+            },
+            {
+              "key": "IGKV1-8",
+              "count": 19
+            },
+            {
+              "key": "IGKV4-1",
+              "count": 80
+            },
+            {
+              "key": "IGKV1D-39",
+              "count": 159
+            },
+            {
+              "key": "IGKV3-11",
+              "count": 88
+            },
+            {
+              "key": "IGKV2D-28",
+              "count": 19
+            },
+            {
+              "key": "IGKV1-16",
+              "count": 20
+            },
+            {
+              "key": "IGKV2-30",
+              "count": 35
+            },
+            {
+              "key": "IGKV2-28",
+              "count": 41
+            },
+            {
+              "key": "IGKV2D-26",
+              "count": 2
+            },
+            {
+              "key": "IGKV6D-21",
+              "count": 3
+            },
+            {
+              "key": "IGKV2D-29",
+              "count": 7
+            },
+            {
+              "key": "IGKV1-27",
+              "count": 24
+            },
+            {
+              "key": "IGKV1-6",
+              "count": 5
+            },
+            {
+              "key": "IGKV1-17",
+              "count": 28
+            },
+            {
+              "key": "IGKV1-33",
+              "count": 22
+            },
+            {
+              "key": "IGKV1-9",
+              "count": 43
+            },
+            {
+              "key": "IGKV2-24",
+              "count": 10
+            },
+            {
+              "key": "IGKV3-15",
+              "count": 79
+            },
+            {
+              "key": "IGKV3-20",
+              "count": 146
+            },
+            {
+              "key": "IGKV1D-33",
+              "count": 34
+            },
+            {
+              "key": "IGKV1-12",
+              "count": 23
+            },
+            {
+              "key": "IGKV1-39",
+              "count": 8
+            },
+            {
+              "key": "IGKV2D-40",
+              "count": 4
+            },
+            {
+              "key": "IGKV1D-13",
+              "count": 1
+            },
+            {
+              "key": "IGKV6-21",
+              "count": 3
+            },
+            {
+              "key": "IGKV1D-43",
+              "count": 2
+            },
+            {
+              "key": "IGKV1D-8",
+              "count": 3
+            },
+            {
+              "key": "IGKV1D-16",
+              "count": 2
+            },
+            {
+              "key": "IGKV5-2",
+              "count": 2
+            },
+            {
+              "key": "IGKV3D-20",
+              "count": 3
+            },
+            {
+              "key": "IGKV3D-15",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "statistic_name": "v_gene_unique",
+          "total": 977,
+          "data": [
+            {
+              "key": "IGKV1D-39",
+              "count": 159
+            },
+            {
+              "key": "IGKV3-11",
+              "count": 88
+            },
+            {
+              "key": "IGKV3-15",
+              "count": 79
+            },
+            {
+              "key": "IGKV3-20",
+              "count": 146
+            },
+            {
+              "key": "IGKV1-12",
+              "count": 23
+            },
+            {
+              "key": "IGKV1D-33",
+              "count": 34
+            },
+            {
+              "key": "IGKV1-17",
+              "count": 28
+            },
+            {
+              "key": "IGKV1-9",
+              "count": 43
+            },
+            {
+              "key": "IGKV2D-28",
+              "count": 19
+            },
+            {
+              "key": "IGKV1-33",
+              "count": 22
+            },
+            {
+              "key": "IGKV1-16",
+              "count": 20
+            },
+            {
+              "key": "IGKV2-30",
+              "count": 35
+            },
+            {
+              "key": "IGKV2-28",
+              "count": 41
+            },
+            {
+              "key": "IGKV2D-26",
+              "count": 2
+            },
+            {
+              "key": "IGKV6D-21",
+              "count": 3
+            },
+            {
+              "key": "IGKV2D-29",
+              "count": 7
+            },
+            {
+              "key": "IGKV1-27",
+              "count": 24
+            },
+            {
+              "key": "IGKV4-1",
+              "count": 80
+            },
+            {
+              "key": "IGKV1-5",
+              "count": 57
+            },
+            {
+              "key": "IGKV1-6",
+              "count": 5
+            },
+            {
+              "key": "IGKV2-24",
+              "count": 10
+            },
+            {
+              "key": "IGKV1-8",
+              "count": 19
+            },
+            {
+              "key": "IGKV1-39",
+              "count": 8
+            },
+            {
+              "key": "IGKV2D-40",
+              "count": 4
+            },
+            {
+              "key": "IGKV1D-13",
+              "count": 1
+            },
+            {
+              "key": "IGKV6-21",
+              "count": 3
+            },
+            {
+              "key": "IGKV3D-15",
+              "count": 5
+            },
+            {
+              "key": "IGKV1D-43",
+              "count": 2
+            },
+            {
+              "key": "IGKV1D-16",
+              "count": 2
+            },
+            {
+              "key": "IGKV1D-8",
+              "count": 3
+            },
+            {
+              "key": "IGKV3D-20",
+              "count": 3
+            },
+            {
+              "key": "IGKV5-2",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "statistic_name": "v_subgroup_unique",
+          "total": 977,
+          "data": [
+            {
+              "key": "IGKV1",
+              "count": 249
+            },
+            {
+              "key": "IGKV1D",
+              "count": 201
+            },
+            {
+              "key": "IGKV3",
+              "count": 313
+            },
+            {
+              "key": "IGKV4",
+              "count": 80
+            },
+            {
+              "key": "IGKV2D",
+              "count": 32
+            },
+            {
+              "key": "IGKV3D",
+              "count": 8
+            },
+            {
+              "key": "IGKV2",
+              "count": 86
+            },
+            {
+              "key": "IGKV5",
+              "count": 2
+            },
+            {
+              "key": "IGKV6D",
+              "count": 3
+            },
+            {
+              "key": "IGKV6",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
