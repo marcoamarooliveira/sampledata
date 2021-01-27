@@ -1,0 +1,937 @@
+{
+    "Info": {
+        "title": "iReceptorPlus Statistics API",
+        "version": "0.3.0",
+        "description": "Statistics API for the iReceptor Plus platform.",
+        "contact": null
+    },
+    "Result": [
+        {
+            "repertoires": {
+                "repertoire_id": "59",
+                "sample_processing_id": "753",
+                "data_processing_id": "763"
+            },
+            "statistics": [
+                {
+                    "statistic_name": "v_call_unique",
+                    "total": 16823199,
+                    "data": [
+                        {
+                            "key": "TRBV1*01",
+                            "count": 2354
+                        },
+                        {
+                            "key": "TRBV10-1*01",
+                            "count": 65151
+                        },
+                        {
+                            "key": "TRBV10-1*02",
+                            "count": 58
+                        },
+                        {
+                            "key": "TRBV10-2*01",
+                            "count": 53688
+                        },
+                        {
+                            "key": "TRBV10-3*01",
+                            "count": 263530
+                        },
+                        {
+                            "key": "TRBV10-3*02",
+                            "count": 551
+                        },
+                        {
+                            "key": "TRBV10-3*03",
+                            "count": 311
+                        },
+                        {
+                            "key": "TRBV10-3*04",
+                            "count": 788
+                        },
+                        {
+                            "key": "TRBV11-1*01",
+                            "count": 106140
+                        },
+                        {
+                            "key": "TRBV11-2*01",
+                            "count": 325734
+                        },
+                        {
+                            "key": "TRBV11-2*02",
+                            "count": 1307
+                        },
+                        {
+                            "key": "TRBV11-2*03",
+                            "count": 25593
+                        },
+                        {
+                            "key": "TRBV11-3*01",
+                            "count": 36904
+                        },
+                        {
+                            "key": "TRBV11-3*02",
+                            "count": 5774
+                        },
+                        {
+                            "key": "TRBV12-1*01",
+                            "count": 4287
+                        },
+                        {
+                            "key": "TRBV12-2*01",
+                            "count": 20564
+                        },
+                        {
+                            "key": "TRBV12-3*01",
+                            "count": 921681
+                        },
+                        {
+                            "key": "TRBV12-4*01",
+                            "count": 784
+                        },
+                        {
+                            "key": "TRBV12-4*02",
+                            "count": 25631
+                        },
+                        {
+                            "key": "TRBV12-5*01",
+                            "count": 15381
+                        },
+                        {
+                            "key": "TRBV13*01",
+                            "count": 66263
+                        },
+                        {
+                            "key": "TRBV13*02",
+                            "count": 16317
+                        },
+                        {
+                            "key": "TRBV14*01",
+                            "count": 41984
+                        },
+                        {
+                            "key": "TRBV14*02",
+                            "count": 7760
+                        },
+                        {
+                            "key": "TRBV15*01",
+                            "count": 98636
+                        },
+                        {
+                            "key": "TRBV15*02",
+                            "count": 205483
+                        },
+                        {
+                            "key": "TRBV15*03",
+                            "count": 187
+                        },
+                        {
+                            "key": "TRBV16*01",
+                            "count": 10048
+                        },
+                        {
+                            "key": "TRBV16*02",
+                            "count": 147
+                        },
+                        {
+                            "key": "TRBV16*03",
+                            "count": 3597
+                        },
+                        {
+                            "key": "TRBV17*01",
+                            "count": 4442
+                        },
+                        {
+                            "key": "TRBV18*01",
+                            "count": 224114
+                        },
+                        {
+                            "key": "TRBV19*01",
+                            "count": 132992
+                        },
+                        {
+                            "key": "TRBV19*02",
+                            "count": 91
+                        },
+                        {
+                            "key": "TRBV19*03",
+                            "count": 11970
+                        },
+                        {
+                            "key": "TRBV2*01",
+                            "count": 155860
+                        },
+                        {
+                            "key": "TRBV2*02",
+                            "count": 11417
+                        },
+                        {
+                            "key": "TRBV2*03",
+                            "count": 4485
+                        },
+                        {
+                            "key": "TRBV20-1*01",
+                            "count": 893595
+                        },
+                        {
+                            "key": "TRBV20-1*02",
+                            "count": 165827
+                        },
+                        {
+                            "key": "TRBV20-1*03",
+                            "count": 3696
+                        },
+                        {
+                            "key": "TRBV20-1*04",
+                            "count": 137226
+                        },
+                        {
+                            "key": "TRBV20-1*05",
+                            "count": 298889
+                        },
+                        {
+                            "key": "TRBV20-1*06",
+                            "count": 450385
+                        },
+                        {
+                            "key": "TRBV20-1*07",
+                            "count": 150
+                        },
+                        {
+                            "key": "TRBV20/OR9-2*01",
+                            "count": 571
+                        },
+                        {
+                            "key": "TRBV20/OR9-2*02",
+                            "count": 291
+                        },
+                        {
+                            "key": "TRBV20/OR9-2*03",
+                            "count": 5
+                        },
+                        {
+                            "key": "TRBV21-1*01",
+                            "count": 205681
+                        },
+                        {
+                            "key": "TRBV21/OR9-2*01",
+                            "count": 1145
+                        },
+                        {
+                            "key": "TRBV23-1*01",
+                            "count": 25025
+                        },
+                        {
+                            "key": "TRBV23/OR9-2*01",
+                            "count": 343
+                        },
+                        {
+                            "key": "TRBV23/OR9-2*02",
+                            "count": 72
+                        },
+                        {
+                            "key": "TRBV24-1*01",
+                            "count": 226083
+                        },
+                        {
+                            "key": "TRBV24/OR9-2*01",
+                            "count": 13
+                        },
+                        {
+                            "key": "TRBV25-1*01",
+                            "count": 536827
+                        },
+                        {
+                            "key": "TRBV26*01",
+                            "count": 6023
+                        },
+                        {
+                            "key": "TRBV26/OR9-2*01",
+                            "count": 3979
+                        },
+                        {
+                            "key": "TRBV26/OR9-2*02",
+                            "count": 26
+                        },
+                        {
+                            "key": "TRBV27*01",
+                            "count": 663615
+                        },
+                        {
+                            "key": "TRBV28*01",
+                            "count": 737760
+                        },
+                        {
+                            "key": "TRBV29-1*01",
+                            "count": 758961
+                        },
+                        {
+                            "key": "TRBV29-1*02",
+                            "count": 14662
+                        },
+                        {
+                            "key": "TRBV29/OR9-2*01",
+                            "count": 509
+                        },
+                        {
+                            "key": "TRBV29/OR9-2*02",
+                            "count": 198
+                        },
+                        {
+                            "key": "TRBV3-1*01",
+                            "count": 146324
+                        },
+                        {
+                            "key": "TRBV3-1*02",
+                            "count": 9355
+                        },
+                        {
+                            "key": "TRBV3-2*01",
+                            "count": 1295
+                        },
+                        {
+                            "key": "TRBV3-2*02",
+                            "count": 759
+                        },
+                        {
+                            "key": "TRBV3-2*03",
+                            "count": 18542
+                        },
+                        {
+                            "key": "TRBV30*01",
+                            "count": 69872
+                        },
+                        {
+                            "key": "TRBV30*02",
+                            "count": 1074
+                        },
+                        {
+                            "key": "TRBV30*05",
+                            "count": 9372
+                        },
+                        {
+                            "key": "TRBV4-1*01",
+                            "count": 229542
+                        },
+                        {
+                            "key": "TRBV4-2*01",
+                            "count": 190223
+                        },
+                        {
+                            "key": "TRBV4-2*02",
+                            "count": 8173
+                        },
+                        {
+                            "key": "TRBV4-3*01",
+                            "count": 425773
+                        },
+                        {
+                            "key": "TRBV4-3*02",
+                            "count": 7751
+                        },
+                        {
+                            "key": "TRBV4-3*03",
+                            "count": 587
+                        },
+                        {
+                            "key": "TRBV5-1*01",
+                            "count": 1374364
+                        },
+                        {
+                            "key": "TRBV5-1*02",
+                            "count": 22737
+                        },
+                        {
+                            "key": "TRBV5-3*01",
+                            "count": 5687
+                        },
+                        {
+                            "key": "TRBV5-3*02",
+                            "count": 761
+                        },
+                        {
+                            "key": "TRBV5-4*01",
+                            "count": 62939
+                        },
+                        {
+                            "key": "TRBV5-4*02",
+                            "count": 8634
+                        },
+                        {
+                            "key": "TRBV5-5*01",
+                            "count": 255417
+                        },
+                        {
+                            "key": "TRBV5-5*02",
+                            "count": 12503
+                        },
+                        {
+                            "key": "TRBV5-5*03",
+                            "count": 1411
+                        },
+                        {
+                            "key": "TRBV5-6*01",
+                            "count": 385854
+                        },
+                        {
+                            "key": "TRBV5-7*01",
+                            "count": 1231
+                        },
+                        {
+                            "key": "TRBV5-8*01",
+                            "count": 83548
+                        },
+                        {
+                            "key": "TRBV6-1*01",
+                            "count": 81480
+                        },
+                        {
+                            "key": "TRBV6-2*01",
+                            "count": 225161
+                        },
+                        {
+                            "key": "TRBV6-3*01",
+                            "count": 795
+                        },
+                        {
+                            "key": "TRBV6-4*01",
+                            "count": 54228
+                        },
+                        {
+                            "key": "TRBV6-4*02",
+                            "count": 214
+                        },
+                        {
+                            "key": "TRBV6-5*01",
+                            "count": 286067
+                        },
+                        {
+                            "key": "TRBV6-6*01",
+                            "count": 22336
+                        },
+                        {
+                            "key": "TRBV6-6*02",
+                            "count": 124
+                        },
+                        {
+                            "key": "TRBV6-6*03",
+                            "count": 111802
+                        },
+                        {
+                            "key": "TRBV6-6*04",
+                            "count": 44229
+                        },
+                        {
+                            "key": "TRBV6-6*05",
+                            "count": 8703
+                        },
+                        {
+                            "key": "TRBV6-7*01",
+                            "count": 2483
+                        },
+                        {
+                            "key": "TRBV6-8*01",
+                            "count": 7806
+                        },
+                        {
+                            "key": "TRBV6-9*01",
+                            "count": 1758
+                        },
+                        {
+                            "key": "TRBV7-1*01",
+                            "count": 2166
+                        },
+                        {
+                            "key": "TRBV7-2*01",
+                            "count": 1147817
+                        },
+                        {
+                            "key": "TRBV7-2*02",
+                            "count": 4680
+                        },
+                        {
+                            "key": "TRBV7-2*03",
+                            "count": 1631
+                        },
+                        {
+                            "key": "TRBV7-2*04",
+                            "count": 146049
+                        },
+                        {
+                            "key": "TRBV7-3*01",
+                            "count": 137922
+                        },
+                        {
+                            "key": "TRBV7-3*02",
+                            "count": 6322
+                        },
+                        {
+                            "key": "TRBV7-3*03",
+                            "count": 52
+                        },
+                        {
+                            "key": "TRBV7-3*04",
+                            "count": 2932
+                        },
+                        {
+                            "key": "TRBV7-4*01",
+                            "count": 9116
+                        },
+                        {
+                            "key": "TRBV7-6*01",
+                            "count": 181109
+                        },
+                        {
+                            "key": "TRBV7-6*02",
+                            "count": 26772
+                        },
+                        {
+                            "key": "TRBV7-7*01",
+                            "count": 28985
+                        },
+                        {
+                            "key": "TRBV7-7*02",
+                            "count": 3610
+                        },
+                        {
+                            "key": "TRBV7-8*01",
+                            "count": 1776240
+                        },
+                        {
+                            "key": "TRBV7-8*02",
+                            "count": 338
+                        },
+                        {
+                            "key": "TRBV7-8*03",
+                            "count": 68162
+                        },
+                        {
+                            "key": "TRBV7-9*01",
+                            "count": 572233
+                        },
+                        {
+                            "key": "TRBV7-9*02",
+                            "count": 20169
+                        },
+                        {
+                            "key": "TRBV7-9*03",
+                            "count": 99
+                        },
+                        {
+                            "key": "TRBV7-9*04",
+                            "count": 195212
+                        },
+                        {
+                            "key": "TRBV7-9*05",
+                            "count": 15578
+                        },
+                        {
+                            "key": "TRBV7-9*06",
+                            "count": 2518
+                        },
+                        {
+                            "key": "TRBV9*01",
+                            "count": 257978
+                        },
+                        {
+                            "key": "TRBV9*02",
+                            "count": 116
+                        },
+                        {
+                            "key": "TRBV9*03",
+                            "count": 30918
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "v_gene_unique",
+                    "total": 16823199,
+                    "data": [
+                        {
+                            "key": "TRBV1",
+                            "count": 2354
+                        },
+                        {
+                            "key": "TRBV10-1",
+                            "count": 65209
+                        },
+                        {
+                            "key": "TRBV10-2",
+                            "count": 53688
+                        },
+                        {
+                            "key": "TRBV10-3",
+                            "count": 265180
+                        },
+                        {
+                            "key": "TRBV11-1",
+                            "count": 106140
+                        },
+                        {
+                            "key": "TRBV11-2",
+                            "count": 352634
+                        },
+                        {
+                            "key": "TRBV11-3",
+                            "count": 42678
+                        },
+                        {
+                            "key": "TRBV12-1",
+                            "count": 4287
+                        },
+                        {
+                            "key": "TRBV12-2",
+                            "count": 20564
+                        },
+                        {
+                            "key": "TRBV12-3",
+                            "count": 921681
+                        },
+                        {
+                            "key": "TRBV12-4",
+                            "count": 26415
+                        },
+                        {
+                            "key": "TRBV12-5",
+                            "count": 15381
+                        },
+                        {
+                            "key": "TRBV13",
+                            "count": 82580
+                        },
+                        {
+                            "key": "TRBV14",
+                            "count": 49744
+                        },
+                        {
+                            "key": "TRBV15",
+                            "count": 304306
+                        },
+                        {
+                            "key": "TRBV16",
+                            "count": 13792
+                        },
+                        {
+                            "key": "TRBV17",
+                            "count": 4442
+                        },
+                        {
+                            "key": "TRBV18",
+                            "count": 224114
+                        },
+                        {
+                            "key": "TRBV19",
+                            "count": 145053
+                        },
+                        {
+                            "key": "TRBV2",
+                            "count": 171762
+                        },
+                        {
+                            "key": "TRBV20-1",
+                            "count": 1949768
+                        },
+                        {
+                            "key": "TRBV20/OR9-2",
+                            "count": 867
+                        },
+                        {
+                            "key": "TRBV21-1",
+                            "count": 205681
+                        },
+                        {
+                            "key": "TRBV21/OR9-2",
+                            "count": 1145
+                        },
+                        {
+                            "key": "TRBV23-1",
+                            "count": 25025
+                        },
+                        {
+                            "key": "TRBV23/OR9-2",
+                            "count": 415
+                        },
+                        {
+                            "key": "TRBV24-1",
+                            "count": 226083
+                        },
+                        {
+                            "key": "TRBV24/OR9-2",
+                            "count": 13
+                        },
+                        {
+                            "key": "TRBV25-1",
+                            "count": 536827
+                        },
+                        {
+                            "key": "TRBV26",
+                            "count": 6023
+                        },
+                        {
+                            "key": "TRBV26/OR9-2",
+                            "count": 4005
+                        },
+                        {
+                            "key": "TRBV27",
+                            "count": 663615
+                        },
+                        {
+                            "key": "TRBV28",
+                            "count": 737760
+                        },
+                        {
+                            "key": "TRBV29-1",
+                            "count": 773623
+                        },
+                        {
+                            "key": "TRBV29/OR9-2",
+                            "count": 707
+                        },
+                        {
+                            "key": "TRBV3-1",
+                            "count": 155679
+                        },
+                        {
+                            "key": "TRBV3-2",
+                            "count": 20596
+                        },
+                        {
+                            "key": "TRBV30",
+                            "count": 80318
+                        },
+                        {
+                            "key": "TRBV4-1",
+                            "count": 229542
+                        },
+                        {
+                            "key": "TRBV4-2",
+                            "count": 198396
+                        },
+                        {
+                            "key": "TRBV4-3",
+                            "count": 434111
+                        },
+                        {
+                            "key": "TRBV5-1",
+                            "count": 1397101
+                        },
+                        {
+                            "key": "TRBV5-3",
+                            "count": 6448
+                        },
+                        {
+                            "key": "TRBV5-4",
+                            "count": 71573
+                        },
+                        {
+                            "key": "TRBV5-5",
+                            "count": 269331
+                        },
+                        {
+                            "key": "TRBV5-6",
+                            "count": 385854
+                        },
+                        {
+                            "key": "TRBV5-7",
+                            "count": 1231
+                        },
+                        {
+                            "key": "TRBV5-8",
+                            "count": 83548
+                        },
+                        {
+                            "key": "TRBV6-1",
+                            "count": 81480
+                        },
+                        {
+                            "key": "TRBV6-2",
+                            "count": 225161
+                        },
+                        {
+                            "key": "TRBV6-3",
+                            "count": 795
+                        },
+                        {
+                            "key": "TRBV6-4",
+                            "count": 54442
+                        },
+                        {
+                            "key": "TRBV6-5",
+                            "count": 286067
+                        },
+                        {
+                            "key": "TRBV6-6",
+                            "count": 187194
+                        },
+                        {
+                            "key": "TRBV6-7",
+                            "count": 2483
+                        },
+                        {
+                            "key": "TRBV6-8",
+                            "count": 7806
+                        },
+                        {
+                            "key": "TRBV6-9",
+                            "count": 1758
+                        },
+                        {
+                            "key": "TRBV7-1",
+                            "count": 2166
+                        },
+                        {
+                            "key": "TRBV7-2",
+                            "count": 1300177
+                        },
+                        {
+                            "key": "TRBV7-3",
+                            "count": 147228
+                        },
+                        {
+                            "key": "TRBV7-4",
+                            "count": 9116
+                        },
+                        {
+                            "key": "TRBV7-6",
+                            "count": 207881
+                        },
+                        {
+                            "key": "TRBV7-7",
+                            "count": 32595
+                        },
+                        {
+                            "key": "TRBV7-8",
+                            "count": 1844740
+                        },
+                        {
+                            "key": "TRBV7-9",
+                            "count": 805809
+                        },
+                        {
+                            "key": "TRBV9",
+                            "count": 289012
+                        }
+                    ]
+                },
+                {
+                    "statistic_name": "v_subgroup_unique",
+                    "total": 16823199,
+                    "data": [
+                        {
+                            "key": "TRBV1",
+                            "count": 2354
+                        },
+                        {
+                            "key": "TRBV10",
+                            "count": 384077
+                        },
+                        {
+                            "key": "TRBV11",
+                            "count": 501452
+                        },
+                        {
+                            "key": "TRBV12",
+                            "count": 988328
+                        },
+                        {
+                            "key": "TRBV13",
+                            "count": 82580
+                        },
+                        {
+                            "key": "TRBV14",
+                            "count": 49744
+                        },
+                        {
+                            "key": "TRBV15",
+                            "count": 304306
+                        },
+                        {
+                            "key": "TRBV16",
+                            "count": 13792
+                        },
+                        {
+                            "key": "TRBV17",
+                            "count": 4442
+                        },
+                        {
+                            "key": "TRBV18",
+                            "count": 224114
+                        },
+                        {
+                            "key": "TRBV19",
+                            "count": 145053
+                        },
+                        {
+                            "key": "TRBV2",
+                            "count": 171762
+                        },
+                        {
+                            "key": "TRBV20",
+                            "count": 1950635
+                        },
+                        {
+                            "key": "TRBV21",
+                            "count": 206826
+                        },
+                        {
+                            "key": "TRBV23",
+                            "count": 25440
+                        },
+                        {
+                            "key": "TRBV24",
+                            "count": 226096
+                        },
+                        {
+                            "key": "TRBV25",
+                            "count": 536827
+                        },
+                        {
+                            "key": "TRBV26",
+                            "count": 10028
+                        },
+                        {
+                            "key": "TRBV27",
+                            "count": 663615
+                        },
+                        {
+                            "key": "TRBV28",
+                            "count": 737760
+                        },
+                        {
+                            "key": "TRBV29",
+                            "count": 774330
+                        },
+                        {
+                            "key": "TRBV3",
+                            "count": 176275
+                        },
+                        {
+                            "key": "TRBV30",
+                            "count": 80318
+                        },
+                        {
+                            "key": "TRBV4",
+                            "count": 862049
+                        },
+                        {
+                            "key": "TRBV5",
+                            "count": 2215086
+                        },
+                        {
+                            "key": "TRBV6",
+                            "count": 847186
+                        },
+                        {
+                            "key": "TRBV7",
+                            "count": 4349712
+                        },
+                        {
+                            "key": "TRBV9",
+                            "count": 289012
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}  
