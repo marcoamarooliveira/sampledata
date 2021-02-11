@@ -1,0 +1,1577 @@
+{
+  "Info": {
+    "title": "iReceptorPlus Statistics API",
+    "version": "0.3.0",
+    "description": "Statistics API for the iReceptor Plus platform.",
+    "contact": null
+  },
+  "Result": [
+    {
+      "repertoires": {
+        "repertoire_id": "414",
+        "sample_processing_id": "427",
+        "data_processing_id": "437"
+      },
+      "statistics": [
+        {
+          "statistic_name": "v_call_exists",
+          "total": 20853917,
+          "data": [
+            {
+              "key": "",
+              "count": 953
+            },
+            {
+              "key": "IGHV1-18*01",
+              "count": 2829
+            },
+            {
+              "key": "IGHV1-18*02",
+              "count": 5
+            },
+            {
+              "key": "IGHV1-18*03",
+              "count": 10
+            },
+            {
+              "key": "IGHV1-18*04",
+              "count": 2829
+            },
+            {
+              "key": "IGHV1-2*01",
+              "count": 41
+            },
+            {
+              "key": "IGHV1-2*02",
+              "count": 2519
+            },
+            {
+              "key": "IGHV1-2*03",
+              "count": 2519
+            },
+            {
+              "key": "IGHV1-2*04",
+              "count": 2519
+            },
+            {
+              "key": "IGHV1-2*05",
+              "count": 41
+            },
+            {
+              "key": "IGHV1-24*01",
+              "count": 19540
+            },
+            {
+              "key": "IGHV1-3*01",
+              "count": 13485
+            },
+            {
+              "key": "IGHV1-3*02",
+              "count": 375
+            },
+            {
+              "key": "IGHV1-38-4*01",
+              "count": 9411
+            },
+            {
+              "key": "IGHV1-45*01",
+              "count": 9701
+            },
+            {
+              "key": "IGHV1-45*02",
+              "count": 9701
+            },
+            {
+              "key": "IGHV1-45*03",
+              "count": 9701
+            },
+            {
+              "key": "IGHV1-46*01",
+              "count": 1824
+            },
+            {
+              "key": "IGHV1-46*02",
+              "count": 1824
+            },
+            {
+              "key": "IGHV1-46*03",
+              "count": 1824
+            },
+            {
+              "key": "IGHV1-58*01",
+              "count": 4225
+            },
+            {
+              "key": "IGHV1-58*02",
+              "count": 4223
+            },
+            {
+              "key": "IGHV1-68*01",
+              "count": 598
+            },
+            {
+              "key": "IGHV1-69*01",
+              "count": 19581
+            },
+            {
+              "key": "IGHV1-69*02",
+              "count": 19841
+            },
+            {
+              "key": "IGHV1-69*03",
+              "count": 9
+            },
+            {
+              "key": "IGHV1-69*04",
+              "count": 19830
+            },
+            {
+              "key": "IGHV1-69*05",
+              "count": 19522
+            },
+            {
+              "key": "IGHV1-69*06",
+              "count": 18724
+            },
+            {
+              "key": "IGHV1-69*08",
+              "count": 18655
+            },
+            {
+              "key": "IGHV1-69*09",
+              "count": 18217
+            },
+            {
+              "key": "IGHV1-69*10",
+              "count": 16973
+            },
+            {
+              "key": "IGHV1-69*11",
+              "count": 16409
+            },
+            {
+              "key": "IGHV1-69*12",
+              "count": 7810
+            },
+            {
+              "key": "IGHV1-69*13",
+              "count": 7576
+            },
+            {
+              "key": "IGHV1-69*14",
+              "count": 7532
+            },
+            {
+              "key": "IGHV1-69-2*01",
+              "count": 1
+            },
+            {
+              "key": "IGHV1-69D*01",
+              "count": 18
+            },
+            {
+              "key": "IGHV1-8*01",
+              "count": 1
+            },
+            {
+              "key": "IGHV1-8*02",
+              "count": 1
+            },
+            {
+              "key": "IGHV1-NL1*01",
+              "count": 31
+            },
+            {
+              "key": "IGHV2-10*01",
+              "count": 7
+            },
+            {
+              "key": "IGHV2-26*01",
+              "count": 769
+            },
+            {
+              "key": "IGHV2-5*01",
+              "count": 1179
+            },
+            {
+              "key": "IGHV2-5*02",
+              "count": 1179
+            },
+            {
+              "key": "IGHV2-5*04",
+              "count": 4
+            },
+            {
+              "key": "IGHV2-5*05",
+              "count": 1179
+            },
+            {
+              "key": "IGHV2-5*06",
+              "count": 1179
+            },
+            {
+              "key": "IGHV2-5*08",
+              "count": 1179
+            },
+            {
+              "key": "IGHV2-5*09",
+              "count": 1179
+            },
+            {
+              "key": "IGHV2-70*01",
+              "count": 10
+            },
+            {
+              "key": "IGHV2-70*02",
+              "count": 374
+            },
+            {
+              "key": "IGHV2-70*03",
+              "count": 374
+            },
+            {
+              "key": "IGHV2-70*06",
+              "count": 374
+            },
+            {
+              "key": "IGHV2-70*07",
+              "count": 374
+            },
+            {
+              "key": "IGHV2-70*08",
+              "count": 374
+            },
+            {
+              "key": "IGHV2-70*09",
+              "count": 4
+            },
+            {
+              "key": "IGHV2-70*10",
+              "count": 10
+            },
+            {
+              "key": "IGHV2-70*11",
+              "count": 10
+            },
+            {
+              "key": "IGHV2-70*12",
+              "count": 1178
+            },
+            {
+              "key": "IGHV2-70*13",
+              "count": 24
+            },
+            {
+              "key": "IGHV2-70D*04",
+              "count": 10
+            },
+            {
+              "key": "IGHV2-70D*14",
+              "count": 7
+            },
+            {
+              "key": "IGHV3-11*01",
+              "count": 464164
+            },
+            {
+              "key": "IGHV3-11*03",
+              "count": 464164
+            },
+            {
+              "key": "IGHV3-11*04",
+              "count": 366462
+            },
+            {
+              "key": "IGHV3-11*05",
+              "count": 464164
+            },
+            {
+              "key": "IGHV3-11*06",
+              "count": 366462
+            },
+            {
+              "key": "IGHV3-13*01",
+              "count": 3014
+            },
+            {
+              "key": "IGHV3-13*02",
+              "count": 3014
+            },
+            {
+              "key": "IGHV3-13*03",
+              "count": 3014
+            },
+            {
+              "key": "IGHV3-13*04",
+              "count": 3014
+            },
+            {
+              "key": "IGHV3-13*05",
+              "count": 3014
+            },
+            {
+              "key": "IGHV3-15*01",
+              "count": 7277
+            },
+            {
+              "key": "IGHV3-15*02",
+              "count": 7277
+            },
+            {
+              "key": "IGHV3-15*03",
+              "count": 7276
+            },
+            {
+              "key": "IGHV3-15*04",
+              "count": 7277
+            },
+            {
+              "key": "IGHV3-15*05",
+              "count": 972
+            },
+            {
+              "key": "IGHV3-15*06",
+              "count": 7274
+            },
+            {
+              "key": "IGHV3-15*07",
+              "count": 7272
+            },
+            {
+              "key": "IGHV3-15*08",
+              "count": 5092
+            },
+            {
+              "key": "IGHV3-16*01",
+              "count": 382883
+            },
+            {
+              "key": "IGHV3-16*02",
+              "count": 382876
+            },
+            {
+              "key": "IGHV3-19*01",
+              "count": 2947
+            },
+            {
+              "key": "IGHV3-20*01",
+              "count": 94236
+            },
+            {
+              "key": "IGHV3-20*02",
+              "count": 94236
+            },
+            {
+              "key": "IGHV3-21*01",
+              "count": 366461
+            },
+            {
+              "key": "IGHV3-21*02",
+              "count": 366455
+            },
+            {
+              "key": "IGHV3-21*03",
+              "count": 39613
+            },
+            {
+              "key": "IGHV3-21*04",
+              "count": 464080
+            },
+            {
+              "key": "IGHV3-22*01",
+              "count": 3032
+            },
+            {
+              "key": "IGHV3-22*02",
+              "count": 3019
+            },
+            {
+              "key": "IGHV3-23*01",
+              "count": 672253
+            },
+            {
+              "key": "IGHV3-23*02",
+              "count": 671974
+            },
+            {
+              "key": "IGHV3-23*03",
+              "count": 671864
+            },
+            {
+              "key": "IGHV3-23*04",
+              "count": 671648
+            },
+            {
+              "key": "IGHV3-23*05",
+              "count": 668640
+            },
+            {
+              "key": "IGHV3-23D*01",
+              "count": 672148
+            },
+            {
+              "key": "IGHV3-25*01",
+              "count": 1091
+            },
+            {
+              "key": "IGHV3-25*02",
+              "count": 690
+            },
+            {
+              "key": "IGHV3-25*03",
+              "count": 348
+            },
+            {
+              "key": "IGHV3-25*04",
+              "count": 2169
+            },
+            {
+              "key": "IGHV3-25*05",
+              "count": 669
+            },
+            {
+              "key": "IGHV3-29*01",
+              "count": 2
+            },
+            {
+              "key": "IGHV3-30*01",
+              "count": 33339
+            },
+            {
+              "key": "IGHV3-30*02",
+              "count": 33283
+            },
+            {
+              "key": "IGHV3-30*03",
+              "count": 33276
+            },
+            {
+              "key": "IGHV3-30*04",
+              "count": 32930
+            },
+            {
+              "key": "IGHV3-30*05",
+              "count": 551
+            },
+            {
+              "key": "IGHV3-30*06",
+              "count": 32891
+            },
+            {
+              "key": "IGHV3-30*07",
+              "count": 364753
+            },
+            {
+              "key": "IGHV3-30*08",
+              "count": 32858
+            },
+            {
+              "key": "IGHV3-30*09",
+              "count": 32828
+            },
+            {
+              "key": "IGHV3-30*10",
+              "count": 32606
+            },
+            {
+              "key": "IGHV3-30*11",
+              "count": 28614
+            },
+            {
+              "key": "IGHV3-30*12",
+              "count": 361203
+            },
+            {
+              "key": "IGHV3-30*13",
+              "count": 25488
+            },
+            {
+              "key": "IGHV3-30*14",
+              "count": 35190
+            },
+            {
+              "key": "IGHV3-30*15",
+              "count": 1778
+            },
+            {
+              "key": "IGHV3-30*16",
+              "count": 27958
+            },
+            {
+              "key": "IGHV3-30*17",
+              "count": 27061
+            },
+            {
+              "key": "IGHV3-30*18",
+              "count": 4504
+            },
+            {
+              "key": "IGHV3-30*19",
+              "count": 4353
+            },
+            {
+              "key": "IGHV3-30-2*01",
+              "count": 1
+            },
+            {
+              "key": "IGHV3-30-22*01",
+              "count": 5
+            },
+            {
+              "key": "IGHV3-30-33*01",
+              "count": 14
+            },
+            {
+              "key": "IGHV3-30-42*01",
+              "count": 2
+            },
+            {
+              "key": "IGHV3-30-52*01",
+              "count": 1
+            },
+            {
+              "key": "IGHV3-33*01",
+              "count": 360769
+            },
+            {
+              "key": "IGHV3-33*02",
+              "count": 321350
+            },
+            {
+              "key": "IGHV3-33*03",
+              "count": 322790
+            },
+            {
+              "key": "IGHV3-33*04",
+              "count": 320431
+            },
+            {
+              "key": "IGHV3-33*05",
+              "count": 320171
+            },
+            {
+              "key": "IGHV3-33*06",
+              "count": 316428
+            },
+            {
+              "key": "IGHV3-33-2*01",
+              "count": 34
+            },
+            {
+              "key": "IGHV3-35*01",
+              "count": 470626
+            },
+            {
+              "key": "IGHV3-38*01",
+              "count": 510
+            },
+            {
+              "key": "IGHV3-38*02",
+              "count": 3762
+            },
+            {
+              "key": "IGHV3-38*03",
+              "count": 3760
+            },
+            {
+              "key": "IGHV3-38-3*01",
+              "count": 11578
+            },
+            {
+              "key": "IGHV3-43*01",
+              "count": 1685
+            },
+            {
+              "key": "IGHV3-43*02",
+              "count": 1492
+            },
+            {
+              "key": "IGHV3-43D*01",
+              "count": 1673
+            },
+            {
+              "key": "IGHV3-47*01",
+              "count": 3249
+            },
+            {
+              "key": "IGHV3-47*02",
+              "count": 3231
+            },
+            {
+              "key": "IGHV3-48*01",
+              "count": 308850
+            },
+            {
+              "key": "IGHV3-48*02",
+              "count": 293643
+            },
+            {
+              "key": "IGHV3-48*03",
+              "count": 385200
+            },
+            {
+              "key": "IGHV3-48*04",
+              "count": 1870
+            },
+            {
+              "key": "IGHV3-49*01",
+              "count": 950
+            },
+            {
+              "key": "IGHV3-49*02",
+              "count": 925
+            },
+            {
+              "key": "IGHV3-49*03",
+              "count": 858
+            },
+            {
+              "key": "IGHV3-49*04",
+              "count": 851
+            },
+            {
+              "key": "IGHV3-49*05",
+              "count": 826
+            },
+            {
+              "key": "IGHV3-52*01",
+              "count": 75
+            },
+            {
+              "key": "IGHV3-52*02",
+              "count": 73
+            },
+            {
+              "key": "IGHV3-52*03",
+              "count": 69
+            },
+            {
+              "key": "IGHV3-53*01",
+              "count": 428217
+            },
+            {
+              "key": "IGHV3-53*02",
+              "count": 394977
+            },
+            {
+              "key": "IGHV3-53*03",
+              "count": 346943
+            },
+            {
+              "key": "IGHV3-53*04",
+              "count": 17251
+            },
+            {
+              "key": "IGHV3-54*01",
+              "count": 1081
+            },
+            {
+              "key": "IGHV3-54*02",
+              "count": 1079
+            },
+            {
+              "key": "IGHV3-54*04",
+              "count": 1070
+            },
+            {
+              "key": "IGHV3-62*01",
+              "count": 147
+            },
+            {
+              "key": "IGHV3-64*01",
+              "count": 320
+            },
+            {
+              "key": "IGHV3-64*02",
+              "count": 320
+            },
+            {
+              "key": "IGHV3-64*03",
+              "count": 3838
+            },
+            {
+              "key": "IGHV3-64*05",
+              "count": 3842
+            },
+            {
+              "key": "IGHV3-64D*06",
+              "count": 4219
+            },
+            {
+              "key": "IGHV3-66*01",
+              "count": 912
+            },
+            {
+              "key": "IGHV3-66*02",
+              "count": 11395
+            },
+            {
+              "key": "IGHV3-66*03",
+              "count": 11395
+            },
+            {
+              "key": "IGHV3-66*04",
+              "count": 911
+            },
+            {
+              "key": "IGHV3-69-1*01",
+              "count": 1863
+            },
+            {
+              "key": "IGHV3-69-1*02",
+              "count": 314620
+            },
+            {
+              "key": "IGHV3-7*01",
+              "count": 1812
+            },
+            {
+              "key": "IGHV3-7*02",
+              "count": 1809
+            },
+            {
+              "key": "IGHV3-7*03",
+              "count": 286839
+            },
+            {
+              "key": "IGHV3-71*01",
+              "count": 285621
+            },
+            {
+              "key": "IGHV3-71*02",
+              "count": 2244
+            },
+            {
+              "key": "IGHV3-71*03",
+              "count": 64
+            },
+            {
+              "key": "IGHV3-72*01",
+              "count": 9289
+            },
+            {
+              "key": "IGHV3-73*01",
+              "count": 7208
+            },
+            {
+              "key": "IGHV3-73*02",
+              "count": 7125
+            },
+            {
+              "key": "IGHV3-74*01",
+              "count": 675108
+            },
+            {
+              "key": "IGHV3-74*02",
+              "count": 674737
+            },
+            {
+              "key": "IGHV3-74*03",
+              "count": 659142
+            },
+            {
+              "key": "IGHV3-9*01",
+              "count": 29534
+            },
+            {
+              "key": "IGHV3-9*02",
+              "count": 29326
+            },
+            {
+              "key": "IGHV3-9*03",
+              "count": 171
+            },
+            {
+              "key": "IGHV4-28*01",
+              "count": 1999
+            },
+            {
+              "key": "IGHV4-28*02",
+              "count": 1996
+            },
+            {
+              "key": "IGHV4-28*03",
+              "count": 1996
+            },
+            {
+              "key": "IGHV4-28*04",
+              "count": 59
+            },
+            {
+              "key": "IGHV4-28*05",
+              "count": 1992
+            },
+            {
+              "key": "IGHV4-28*06",
+              "count": 264
+            },
+            {
+              "key": "IGHV4-28*07",
+              "count": 1989
+            },
+            {
+              "key": "IGHV4-30-2*01",
+              "count": 37025
+            },
+            {
+              "key": "IGHV4-30-2*02",
+              "count": 154681
+            },
+            {
+              "key": "IGHV4-30-2*03",
+              "count": 3173
+            },
+            {
+              "key": "IGHV4-30-2*04",
+              "count": 80337
+            },
+            {
+              "key": "IGHV4-30-2*05",
+              "count": 8135
+            },
+            {
+              "key": "IGHV4-30-2*06",
+              "count": 37018
+            },
+            {
+              "key": "IGHV4-30-4*01",
+              "count": 8135
+            },
+            {
+              "key": "IGHV4-30-4*02",
+              "count": 176
+            },
+            {
+              "key": "IGHV4-30-4*03",
+              "count": 3409
+            },
+            {
+              "key": "IGHV4-30-4*04",
+              "count": 8135
+            },
+            {
+              "key": "IGHV4-30-4*05",
+              "count": 8135
+            },
+            {
+              "key": "IGHV4-30-4*06",
+              "count": 8135
+            },
+            {
+              "key": "IGHV4-30-4*07",
+              "count": 37037
+            },
+            {
+              "key": "IGHV4-31*01",
+              "count": 3440
+            },
+            {
+              "key": "IGHV4-31*02",
+              "count": 3439
+            },
+            {
+              "key": "IGHV4-31*03",
+              "count": 3434
+            },
+            {
+              "key": "IGHV4-31*04",
+              "count": 3421
+            },
+            {
+              "key": "IGHV4-31*05",
+              "count": 419
+            },
+            {
+              "key": "IGHV4-31*06",
+              "count": 3409
+            },
+            {
+              "key": "IGHV4-31*07",
+              "count": 3407
+            },
+            {
+              "key": "IGHV4-31*08",
+              "count": 3370
+            },
+            {
+              "key": "IGHV4-31*09",
+              "count": 36984
+            },
+            {
+              "key": "IGHV4-31*10",
+              "count": 1182
+            },
+            {
+              "key": "IGHV4-34*01",
+              "count": 22089
+            },
+            {
+              "key": "IGHV4-34*02",
+              "count": 22086
+            },
+            {
+              "key": "IGHV4-34*03",
+              "count": 36962
+            },
+            {
+              "key": "IGHV4-34*04",
+              "count": 22077
+            },
+            {
+              "key": "IGHV4-34*05",
+              "count": 22070
+            },
+            {
+              "key": "IGHV4-34*06",
+              "count": 2080
+            },
+            {
+              "key": "IGHV4-34*07",
+              "count": 36691
+            },
+            {
+              "key": "IGHV4-34*08",
+              "count": 22029
+            },
+            {
+              "key": "IGHV4-34*09",
+              "count": 3048
+            },
+            {
+              "key": "IGHV4-34*10",
+              "count": 23829
+            },
+            {
+              "key": "IGHV4-34*11",
+              "count": 68
+            },
+            {
+              "key": "IGHV4-34*12",
+              "count": 21905
+            },
+            {
+              "key": "IGHV4-34*13",
+              "count": 21758
+            },
+            {
+              "key": "IGHV4-38-2*01",
+              "count": 80107
+            },
+            {
+              "key": "IGHV4-38-2*02",
+              "count": 80104
+            },
+            {
+              "key": "IGHV4-39*01",
+              "count": 57208
+            },
+            {
+              "key": "IGHV4-39*02",
+              "count": 57085
+            },
+            {
+              "key": "IGHV4-39*03",
+              "count": 80079
+            },
+            {
+              "key": "IGHV4-39*04",
+              "count": 344
+            },
+            {
+              "key": "IGHV4-39*05",
+              "count": 57206
+            },
+            {
+              "key": "IGHV4-39*06",
+              "count": 22517
+            },
+            {
+              "key": "IGHV4-39*07",
+              "count": 34898
+            },
+            {
+              "key": "IGHV4-4*01",
+              "count": 4156
+            },
+            {
+              "key": "IGHV4-4*02",
+              "count": 33880
+            },
+            {
+              "key": "IGHV4-4*03",
+              "count": 33797
+            },
+            {
+              "key": "IGHV4-4*04",
+              "count": 32892
+            },
+            {
+              "key": "IGHV4-4*05",
+              "count": 30888
+            },
+            {
+              "key": "IGHV4-4*06",
+              "count": 11829
+            },
+            {
+              "key": "IGHV4-4*07",
+              "count": 10619
+            },
+            {
+              "key": "IGHV4-4*08",
+              "count": 78345
+            },
+            {
+              "key": "IGHV4-55*01",
+              "count": 1197
+            },
+            {
+              "key": "IGHV4-55*02",
+              "count": 1205
+            },
+            {
+              "key": "IGHV4-55*03",
+              "count": 2
+            },
+            {
+              "key": "IGHV4-55*04",
+              "count": 1170
+            },
+            {
+              "key": "IGHV4-55*05",
+              "count": 1137
+            },
+            {
+              "key": "IGHV4-55*06",
+              "count": 100175
+            },
+            {
+              "key": "IGHV4-55*07",
+              "count": 77685
+            },
+            {
+              "key": "IGHV4-55*08",
+              "count": 1127
+            },
+            {
+              "key": "IGHV4-55*09",
+              "count": 225
+            },
+            {
+              "key": "IGHV4-59*01",
+              "count": 151780
+            },
+            {
+              "key": "IGHV4-59*02",
+              "count": 151743
+            },
+            {
+              "key": "IGHV4-59*03",
+              "count": 151863
+            },
+            {
+              "key": "IGHV4-59*04",
+              "count": 57162
+            },
+            {
+              "key": "IGHV4-59*05",
+              "count": 57151
+            },
+            {
+              "key": "IGHV4-59*06",
+              "count": 2853
+            },
+            {
+              "key": "IGHV4-59*07",
+              "count": 151394
+            },
+            {
+              "key": "IGHV4-59*08",
+              "count": 77070
+            },
+            {
+              "key": "IGHV4-59*09",
+              "count": 149427
+            },
+            {
+              "key": "IGHV4-59*10",
+              "count": 2
+            },
+            {
+              "key": "IGHV4-61*01",
+              "count": 149375
+            },
+            {
+              "key": "IGHV4-61*02",
+              "count": 76032
+            },
+            {
+              "key": "IGHV4-61*03",
+              "count": 149320
+            },
+            {
+              "key": "IGHV4-61*04",
+              "count": 360
+            },
+            {
+              "key": "IGHV4-61*05",
+              "count": 8
+            },
+            {
+              "key": "IGHV4-61*06",
+              "count": 2
+            },
+            {
+              "key": "IGHV4-61*07",
+              "count": 149329
+            },
+            {
+              "key": "IGHV4-61*08",
+              "count": 149313
+            },
+            {
+              "key": "IGHV5-10-1*01",
+              "count": 9029
+            },
+            {
+              "key": "IGHV5-10-1*02",
+              "count": 45
+            },
+            {
+              "key": "IGHV5-10-1*03",
+              "count": 9022
+            },
+            {
+              "key": "IGHV5-10-1*04",
+              "count": 9021
+            },
+            {
+              "key": "IGHV5-51*01",
+              "count": 9092
+            },
+            {
+              "key": "IGHV5-51*02",
+              "count": 9091
+            },
+            {
+              "key": "IGHV5-51*03",
+              "count": 9074
+            },
+            {
+              "key": "IGHV5-51*04",
+              "count": 9073
+            },
+            {
+              "key": "IGHV5-51*05",
+              "count": 6
+            },
+            {
+              "key": "IGHV5-78*01",
+              "count": 475
+            },
+            {
+              "key": "IGHV6-1*01",
+              "count": 3924
+            },
+            {
+              "key": "IGHV6-1*02",
+              "count": 3923
+            },
+            {
+              "key": "IGHV7-34-1*01",
+              "count": 299
+            },
+            {
+              "key": "IGHV7-34-1*02",
+              "count": 293
+            },
+            {
+              "key": "IGHV7-4-1*01",
+              "count": 184
+            },
+            {
+              "key": "IGHV7-4-1*02",
+              "count": 223
+            },
+            {
+              "key": "IGHV7-4-1*04",
+              "count": 179
+            },
+            {
+              "key": "IGHV7-4-1*05",
+              "count": 2
+            },
+            {
+              "key": "IGHV7-40*03",
+              "count": 55
+            },
+            {
+              "key": "IGHV7-81*01",
+              "count": 236
+            }
+          ]
+        },
+        {
+          "statistic_name": "v_gene_exists",
+          "total": 9384485,
+          "data": [
+            {
+              "key": "IGHV1-18",
+              "count": 2839
+            },
+            {
+              "key": "IGHV1-2",
+              "count": 2555
+            },
+            {
+              "key": "IGHV1-24",
+              "count": 19540
+            },
+            {
+              "key": "IGHV1-3",
+              "count": 13512
+            },
+            {
+              "key": "IGHV1-38-4",
+              "count": 9411
+            },
+            {
+              "key": "IGHV1-45",
+              "count": 9701
+            },
+            {
+              "key": "IGHV1-46",
+              "count": 1824
+            },
+            {
+              "key": "IGHV1-58",
+              "count": 4225
+            },
+            {
+              "key": "IGHV1-68",
+              "count": 598
+            },
+            {
+              "key": "IGHV1-69",
+              "count": 19889
+            },
+            {
+              "key": "IGHV1-69-2",
+              "count": 1
+            },
+            {
+              "key": "IGHV1-69D",
+              "count": 18
+            },
+            {
+              "key": "IGHV1-8",
+              "count": 1
+            },
+            {
+              "key": "IGHV1-NL1",
+              "count": 31
+            },
+            {
+              "key": "IGHV2-10",
+              "count": 7
+            },
+            {
+              "key": "IGHV2-26",
+              "count": 769
+            },
+            {
+              "key": "IGHV2-5",
+              "count": 1180
+            },
+            {
+              "key": "IGHV2-70",
+              "count": 1568
+            },
+            {
+              "key": "IGHV2-70D",
+              "count": 10
+            },
+            {
+              "key": "IGHV3-11",
+              "count": 827121
+            },
+            {
+              "key": "IGHV3-13",
+              "count": 3014
+            },
+            {
+              "key": "IGHV3-15",
+              "count": 10629
+            },
+            {
+              "key": "IGHV3-16",
+              "count": 382883
+            },
+            {
+              "key": "IGHV3-19",
+              "count": 2947
+            },
+            {
+              "key": "IGHV3-20",
+              "count": 94236
+            },
+            {
+              "key": "IGHV3-21",
+              "count": 845543
+            },
+            {
+              "key": "IGHV3-22",
+              "count": 3032
+            },
+            {
+              "key": "IGHV3-23",
+              "count": 672253
+            },
+            {
+              "key": "IGHV3-23D",
+              "count": 672148
+            },
+            {
+              "key": "IGHV3-25",
+              "count": 3221
+            },
+            {
+              "key": "IGHV3-29",
+              "count": 2
+            },
+            {
+              "key": "IGHV3-30",
+              "count": 407971
+            },
+            {
+              "key": "IGHV3-30-2",
+              "count": 1
+            },
+            {
+              "key": "IGHV3-30-22",
+              "count": 5
+            },
+            {
+              "key": "IGHV3-30-33",
+              "count": 14
+            },
+            {
+              "key": "IGHV3-30-42",
+              "count": 2
+            },
+            {
+              "key": "IGHV3-30-52",
+              "count": 1
+            },
+            {
+              "key": "IGHV3-33",
+              "count": 360826
+            },
+            {
+              "key": "IGHV3-33-2",
+              "count": 34
+            },
+            {
+              "key": "IGHV3-35",
+              "count": 470626
+            },
+            {
+              "key": "IGHV3-38",
+              "count": 4013
+            },
+            {
+              "key": "IGHV3-38-3",
+              "count": 11578
+            },
+            {
+              "key": "IGHV3-43",
+              "count": 1685
+            },
+            {
+              "key": "IGHV3-43D",
+              "count": 1673
+            },
+            {
+              "key": "IGHV3-47",
+              "count": 3265
+            },
+            {
+              "key": "IGHV3-48",
+              "count": 928521
+            },
+            {
+              "key": "IGHV3-49",
+              "count": 950
+            },
+            {
+              "key": "IGHV3-52",
+              "count": 75
+            },
+            {
+              "key": "IGHV3-53",
+              "count": 444898
+            },
+            {
+              "key": "IGHV3-54",
+              "count": 1081
+            },
+            {
+              "key": "IGHV3-62",
+              "count": 147
+            },
+            {
+              "key": "IGHV3-64",
+              "count": 4209
+            },
+            {
+              "key": "IGHV3-64D",
+              "count": 4219
+            },
+            {
+              "key": "IGHV3-66",
+              "count": 12152
+            },
+            {
+              "key": "IGHV3-69-1",
+              "count": 316198
+            },
+            {
+              "key": "IGHV3-7",
+              "count": 288651
+            },
+            {
+              "key": "IGHV3-71",
+              "count": 287755
+            },
+            {
+              "key": "IGHV3-72",
+              "count": 9289
+            },
+            {
+              "key": "IGHV3-73",
+              "count": 7208
+            },
+            {
+              "key": "IGHV3-74",
+              "count": 675108
+            },
+            {
+              "key": "IGHV3-9",
+              "count": 29651
+            },
+            {
+              "key": "IGHV4-28",
+              "count": 2146
+            },
+            {
+              "key": "IGHV4-30-2",
+              "count": 274128
+            },
+            {
+              "key": "IGHV4-30-4",
+              "count": 48370
+            },
+            {
+              "key": "IGHV4-31",
+              "count": 40837
+            },
+            {
+              "key": "IGHV4-34",
+              "count": 63101
+            },
+            {
+              "key": "IGHV4-38-2",
+              "count": 80107
+            },
+            {
+              "key": "IGHV4-39",
+              "count": 170541
+            },
+            {
+              "key": "IGHV4-4",
+              "count": 113784
+            },
+            {
+              "key": "IGHV4-55",
+              "count": 177554
+            },
+            {
+              "key": "IGHV4-59",
+              "count": 287973
+            },
+            {
+              "key": "IGHV4-61",
+              "count": 225788
+            },
+            {
+              "key": "IGHV5-10-1",
+              "count": 9074
+            },
+            {
+              "key": "IGHV5-51",
+              "count": 9098
+            },
+            {
+              "key": "IGHV5-78",
+              "count": 475
+            },
+            {
+              "key": "IGHV6-1",
+              "count": 3924
+            },
+            {
+              "key": "IGHV7-34-1",
+              "count": 299
+            },
+            {
+              "key": "IGHV7-4-1",
+              "count": 481
+            },
+            {
+              "key": "IGHV7-40",
+              "count": 55
+            },
+            {
+              "key": "IGHV7-81",
+              "count": 236
+            }
+          ]
+        },
+        {
+          "statistic_name": "v_subgroup_exists",
+          "total": 3402675,
+          "data": [
+            {
+              "key": "IGHV1",
+              "count": 46139
+            },
+            {
+              "key": "IGHV2",
+              "count": 1570
+            },
+            {
+              "key": "IGHV3",
+              "count": 2985112
+            },
+            {
+              "key": "IGHV4",
+              "count": 355857
+            },
+            {
+              "key": "IGHV5",
+              "count": 9155
+            },
+            {
+              "key": "IGHV6",
+              "count": 3924
+            },
+            {
+              "key": "IGHV7",
+              "count": 918
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
